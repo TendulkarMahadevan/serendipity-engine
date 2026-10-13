@@ -86,6 +86,13 @@ confidence intervals over seeds. Raw data: `data/eval40_*`.
 - Small local models for writing and judging. Pitches are often generic, and the checks verify vocabulary
   and quotes but **not** which object a claimed feature belongs to.
 - One generation per seed and strategy; LLM-judge scores, not human ratings.
+- **"Distant" is only moderately far.** Similarity to a seed is tightly packed (standard deviation ~0.029 across
+  the 3,000 objects). Band picks sit at about the 19th percentile and random picks at the 50th, but in raw cosine
+  that is only 0.502 vs 0.526. So this experiment may not test "far" hard enough. Longer seed phrases or an
+  extreme-tail arm would test that; it has not been run.
+- **Two prompts are mixed.** 32 of 118 pitches came from the simpler fallback prompt. Restricting to the 86
+  strict-prompt pitches does not change the conclusion (a couple of borderline intervals appear among 12
+  comparisons, which is what noise would produce).
 
 ## Run it
 
@@ -117,7 +124,7 @@ Experiments, in order (each prints what it found):
 | `06a`-`06c` | structured-output reliability and failure demos |
 | `07_evaluate.py` | 10-seed evaluation |
 | `08_prompt_compare.py` | prompt versions v1 / v2 / v3 |
-| `09_evaluate_large.py` | the 40-seed evaluation behind the table above (takes about an hour) |
+| `09_evaluate_large.py` | the 40-seed evaluation behind the table above (about 70 minutes of compute; much longer wall-clock if your machine sleeps) |
 
 Optional: `pip install watchdog` lets Streamlit reload edited helper modules without a restart.
 
