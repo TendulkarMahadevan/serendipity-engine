@@ -1,5 +1,7 @@
 # Serendipity Engine
 
+**Live gallery of pre-generated results: https://serendipity-engine.streamlit.app/**
+
 Normal search returns the items most similar to your query. This project does the opposite for
 two of its three results: it returns **one close match plus two deliberately distant objects**
 from the Metropolitan Museum of Art's open-access collection, then asks a local LLM to write a
