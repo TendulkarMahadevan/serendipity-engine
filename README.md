@@ -12,6 +12,19 @@ Ollama. Everything runs locally and for free.
 > that any distant-item strategy produces better pitches than picking at random. The LLM judge was
 > too inconsistent to rank them. See [Results](#results) for what was and wasn't established.
 
+## Try it without installing anything heavy
+
+`demo/app.py` is a read-only **gallery** of the 120 pitches from the 40-seed evaluation: pick a
+search word and a strategy and see the three objects, the pitch and why the model linked them. It
+runs no model (pitches are pre-generated), so it needs only Streamlit and pandas:
+
+```bash
+pip install -r demo/requirements.txt
+streamlit run demo/app.py
+```
+
+The live app (`app.py`, below) generates new pitches but needs Ollama running locally.
+
 ## How it works
 
 1. **Data** (`src/serendipity/data.py`): download `MetObjects.csv` (public-domain rows with a title
@@ -112,7 +125,8 @@ streamlit 1.65, Python 3.12.
 ## Layout
 
 ```
-app.py                  Streamlit demo
+app.py                  Streamlit app (live generation, needs Ollama)
+demo/                   Streamlit gallery of pre-generated results (no model needed)
 src/serendipity/        config, data, embeddings, store, strategies, generate, judge
 scripts/                one runnable script per stage
 data/eval40_*           results of the 40-seed evaluation
