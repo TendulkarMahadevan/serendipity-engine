@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+langchain
+langchain-core
+langchain-chroma
+langchain-ollama
+pydantic
+streamlit
+requests

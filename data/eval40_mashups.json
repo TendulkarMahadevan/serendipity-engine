@@ -1,0 +1,3952 @@
+{
+ "winter|A_band": {
+  "seed": "winter",
+  "strategy": "A_band",
+  "idx": [
+   1336,
+   2524,
+   1959
+  ],
+  "ids": [
+   "338706",
+   "670696",
+   "445447"
+  ],
+  "texts": [
+   "Title: Spring (Ver) from The Seasons. Medium: Engraving; first state of three. Classification: Prints",
+   "Title: Christ Healing the Blind, from Das Plenarium. Medium: Woodcut (hand-colored). Classification: Prints",
+   "Title: Fragment of a Bowl. Medium: Earthenware; incised decoration through white slip and coloring under transparent glaze. Classification: Ceramics"
+  ],
+  "sims": [
+   0.6822097053863108,
+   0.5364159619083957,
+   0.5351217304248509
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] the pitch/link names ['Renaissance'], which appear in no description. Remove anything not in the descriptions.",
+   "[v3] the link mentions 'prints', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the link mentions 'prints', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Exploring Winter Through Art",
+  "pitch": "The Seasons' Spring (Ver) and Das Plenarium's Christ Healing the Blind both employ the technique of printmaking, with Spring's intricate engraving and Christ's detailed woodcut. These works, though depicting different seasons, share a common method of capturing moments in time. The Fragment of a Bowl, meanwhile, offers a glimpse into the craft of ceramics from the 14th\u201315th century. Together, they explore the transformations and healing themes often associated with winter, inviting you to reflect on change and renewal.",
+  "link": "The Seasons engravings and Das Plenarium woodcut share a technique, both using prints to capture distinct moments in time, albeit through different seasons. The Seasons' engraving, Spring (Ver), and Das Plenarium's Christ Healing the Blind, both from 1517, highlight the technique of engraving and woodcut, respectively. In contrast, the Fragment of a Bowl, an earthenware piece from the 14th\u201315th century, showcases the material and craftsmanship of ceramics. Together, these objects invite visitors to explore the art of printmaking and its application to both nature and faith, linking back to the visitor's search for 'winter' through themes of transformation and healing. Winter, in its essence, is a season of change and renewal."
+ },
+ "winter|B_cluster": {
+  "seed": "winter",
+  "strategy": "B_cluster",
+  "idx": [
+   1336,
+   1747,
+   1741
+  ],
+  "ids": [
+   "338706",
+   "403946",
+   "403161"
+  ],
+  "texts": [
+   "Title: Spring (Ver) from The Seasons. Medium: Engraving; first state of three. Classification: Prints",
+   "Title: George W. McVey, Catcher, St. Joseph Clay Eaters, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera",
+   "Title: Anthony John \"Tony\" Mullane, Pitcher, Cincinnati, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera"
+  ],
+  "sims": [
+   0.6822097053863108,
+   0.5208495059721732,
+   0.4834308740157184
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 2,
+  "errors": [
+   "the link mentions 'prints', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Spring (Ver) from The Seasons",
+  "pitch": "Explore the transition from winter\u2019s dormancy to spring\u2019s vitality with 'Spring (Ver) from The Seasons' and the dynamic portraits of athletes. Engraving contrasts with albumen photographs, capturing life in its changing states.",
+  "link": "These engravings and photographs contrast winter\u2019s stillness with spring\u2019s blossoming life."
+ },
+ "winter|C_random": {
+  "seed": "winter",
+  "strategy": "C_random",
+  "idx": [
+   1336,
+   2551,
+   1911
+  ],
+  "ids": [
+   "338706",
+   "683202",
+   "437320"
+  ],
+  "texts": [
+   "Title: Spring (Ver) from The Seasons. Medium: Engraving; first state of three. Classification: Prints",
+   "Title: A Glimpse of the Lake, from the series, Views in Central Park, New York, Part 2. Medium: Color lithograph. Classification: Prints|Ephemera",
+   "Title: Elizabeth Bushby. Medium: Ivory. Classification: Miniatures"
+  ],
+  "sims": [
+   0.6822097053863108,
+   0.5636762655381146,
+   0.5374408720480804
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Spring (Ver)",
+  "pitch": "Explore the season of growth and renewal with 'Spring (Ver)' from The Seasons, an engraving that brings life to the first signs of spring. Contrast it with the tranquil 'A Glimpse of the Lake,' a color lithograph from Central Park, and 'Elizabeth Bushby,' a delicate ivory miniature. Each piece uniquely depicts the changing of the seasons, from vibrant prints to intimate portraits.",
+  "link": "While these artworks differ in medium, they all capture the essence of a season."
+ },
+ "war|A_band": {
+  "seed": "war",
+  "strategy": "A_band",
+  "idx": [
+   1785,
+   1133,
+   1306
+  ],
+  "ids": [
+   "410861",
+   "308925",
+   "336367"
+  ],
+  "texts": [
+   "Title: An entrance to a fortress in center, a woman with child seated by a fire to right, soldiers gather to right and in center, cannons in landscape to left, title page for 'Peace and War' (Divers desseins tant pour la paix que pour la guerre). Medium: Etching. Classification: Prints",
+   "Title: Miniature Bottle. Culture: Chim\u00fa or Chancay. Medium: Silver, gilt. Classification: Metal-Containers",
+   "Title: Design for a Frontispiece:  Mercury and Fame. Medium: Pen and brown ink with pen and black ink and brush and gray wash. Composition outlined in pen and brown ink. Contours incised and verso blackened with carbon dust for transfer. Classification: Drawings"
+  ],
+  "sims": [
+   0.6624458694451718,
+   0.5024656917518422,
+   0.503592553194439
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] the pitch/link names ['Inca'], which appear in no description. Remove anything not in the descriptions.",
+   "[v3] the link mentions 'silver', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] evidence phrase 2 ('Pen and brown ink with pen and black ink and brush and gray wash') is not copied exactly from Object 2's description."
+  ],
+  "title": "Exploring War Through Art",
+  "pitch": "An entrance to a fortress in center delves into the harsh realities of war, while a miniature bottle from the Chim\u00fa or Chancay culture showcases the wealth and status in pre-Columbian societies. A drawing of Mercury and Fame, on the other hand, hints at the broader implications of conflict. These diverse works explore the multifaceted impact of war on human experience. Through these objects, we gain insight into how different cultures have grappled with the theme of war throughout history.",
+  "link": "All three objects, while distinct, explore the theme of conflict. The etching 'An entrance to a fortress in center' vividly captures the realities of war, the miniature bottle symbolizes wealth and status in pre-Columbian societies, and the drawing 'Design for a Frontispiece: Mercury and Fame' hints at the broader implications of war. Together, they offer a multifaceted view of war\u2019s impact on society and culture."
+ },
+ "war|B_cluster": {
+  "seed": "war",
+  "strategy": "B_cluster",
+  "idx": [
+   1785,
+   1734,
+   1736
+  ],
+  "ids": [
+   "410861",
+   "402038",
+   "402686"
+  ],
+  "texts": [
+   "Title: An entrance to a fortress in center, a woman with child seated by a fire to right, soldiers gather to right and in center, cannons in landscape to left, title page for 'Peace and War' (Divers desseins tant pour la paix que pour la guerre). Medium: Etching. Classification: Prints",
+   "Title: Getzein, Pitcher, Indianapolis, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera",
+   "Title: Edward M. Daily, Pitcher, Philadelphia, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera"
+  ],
+  "sims": [
+   0.6624458694451718,
+   0.46410354863882264,
+   0.46529550936755304
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 5,
+  "errors": [
+   "[v3] the link mentions 'etching', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the link mentions 'engravings', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the pitch mentions 'paints', which appears in none of the descriptions; remove it.",
+   "[v2] the pitch is cut off mid-sentence; rewrite it so it ends with a complete sentence."
+  ],
+  "title": "Exploring War Through Time and Medium",
+  "pitch": "An etching from 1638\u201343, 'Peace and War,' depicts a fortress and soldiers, illustrating the complexity of conflict. In sharp contrast, two 1880s albumen photographs show utilitarian pitchers from the Old Judge series, hinting at the commercialization of imagery. Together, these works reveal how war and its representation have evolved across centuries and media, reflecting the visitor's search for understanding of war.",
+  "link": "410861, 402038, 402686"
+ },
+ "war|C_random": {
+  "seed": "war",
+  "strategy": "C_random",
+  "idx": [
+   1785,
+   1418,
+   1534
+  ],
+  "ids": [
+   "410861",
+   "351189",
+   "376742"
+  ],
+  "texts": [
+   "Title: An entrance to a fortress in center, a woman with child seated by a fire to right, soldiers gather to right and in center, cannons in landscape to left, title page for 'Peace and War' (Divers desseins tant pour la paix que pour la guerre). Medium: Etching. Classification: Prints",
+   "Title: Isle of Arran, Early Morn. Medium: Watercolor with touches of gouache (bodycolor) over graphite. Classification: Drawings",
+   "Title: Phaeton, from 'Game of Mythology' (Jeu de la Mythologie). Medium: Etching; first state of five. Classification: Prints"
+  ],
+  "sims": [
+   0.6624458694451718,
+   0.5526278518157985,
+   0.5725856969577162
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "An entrance to a fortress in center",
+  "pitch": "Explore the dualities of conflict and tranquility with 'An entrance to a fortress in center' and 'Isle of Arran, Early Morn'. Both etchings, one depicting the harsh realities of war, the other the serene beauty of nature, challenge our understanding of the human condition. See how these 17th-century artists capture moments of tension and peace, inviting reflection on the impacts of war. Dive into this exhibition to uncover the complex relationship between conflict and the natural world.",
+  "link": "These works in etching and watercolor contrast war and nature, offering a stark visual dialogue."
+ },
+ "love|A_band": {
+  "seed": "love",
+  "strategy": "A_band",
+  "idx": [
+   1636,
+   652,
+   2395
+  ],
+  "ids": [
+   "390795",
+   "207758",
+   "572493"
+  ],
+  "texts": [
+   "Title: Battle of Love and Pan. Medium: Etching and engraving. Classification: Prints",
+   "Title: Plate. Culture: Chinese, for European market. Medium: Hard-paste porcelain. Classification: Ceramics-Porcelain-Export",
+   "Title: Sealing fragment. Period: Middle Kingdom. Medium: Clay (unfired)"
+  ],
+  "sims": [
+   0.7189876546419197,
+   0.5449781588829246,
+   0.5544086076919846
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 6,
+  "errors": [
+   "[v3] the link mentions 'etching', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the pitch/link names ['Cupid'], which appear in no description. Remove anything not in the descriptions.",
+   "[v3] the link mentions 'porcelain', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v2] the pitch text must not contain IDs or the word object_ids (found [390795, 572493, 207758]); put IDs only in object_ids.",
+   "[v2] the pitch text must not contain IDs or the word object_ids (found [390795, 572493, 207758]); put IDs only in object_ids."
+  ],
+  "title": "Battle of Love and Pan",
+  "pitch": "Battle of Love and Pan, a 1715\u201396 etching, depicts the classic struggle of love. The 'Plate,' a 1745\u201350 Chinese export porcelain, offers a glimpse into the luxury trade. The 'Sealing fragment,' a 2030\u20131640 B.C. clay relic, symbolizes ancient administrative love for order. Together, they show love's enduring presence in different forms and functions.",
+  "link": "A medium connects these vastly different objects: etching and engraving. While 'Battle of Love and Pan' uses this technique to depict a romantic confrontation, the 'Plate' showcases fine Chinese porcelain for the European market, and the 'Sealing fragment' represents ancient Egyptian bureaucracy. Each object adds a unique perspective on love, from artistic expression to cultural exchange and historical context. Explore how love manifests across time and culture."
+ },
+ "love|B_cluster": {
+  "seed": "love",
+  "strategy": "B_cluster",
+  "idx": [
+   1636,
+   2562,
+   2829
+  ],
+  "ids": [
+   "390795",
+   "683870",
+   "753438"
+  ],
+  "texts": [
+   "Title: Battle of Love and Pan. Medium: Etching and engraving. Classification: Prints",
+   "Title: Terracotta rim fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Classical. Medium: Terracotta. Classification: Vases",
+   "Title: Terracotta fragment of a skyphos (deep drinking cup). Culture: Greek, Attic. Period: Archaic. Medium: Terracotta. Classification: Vases"
+  ],
+  "sims": [
+   0.7189876546419197,
+   0.5773082806521539,
+   0.5718629736239224
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 3,
+  "errors": [
+   "the link mentions 'etching', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "the pitch/link names ['Greece'], which appear in no description. Remove anything not in the descriptions."
+  ],
+  "title": "Battle of Love and Pan",
+  "pitch": "Battle of Love and Pan, an 18th-century etching, captures a romantic confrontation. In contrast, the ancient Greek terracotta fragments, one from the 6th century BCE, the other from the mid-5th century BCE, depict drinking vessels with no trace of love. Each piece offers a unique perspective on human emotions through different mediums and eras.",
+  "link": "These objects, from different eras, all use terracotta to explore themes of love."
+ },
+ "love|C_random": {
+  "seed": "love",
+  "strategy": "C_random",
+  "idx": [
+   1636,
+   784,
+   2512
+  ],
+  "ids": [
+   "390795",
+   "227817",
+   "669595"
+  ],
+  "texts": [
+   "Title: Battle of Love and Pan. Medium: Etching and engraving. Classification: Prints",
+   "Title: Piece. Culture: Spanish. Medium: Silk and metal thread. Classification: Textiles-Woven",
+   "Title: Terracotta rim fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Classical. Medium: Terracotta. Classification: Vases"
+  ],
+  "sims": [
+   0.7189876546419197,
+   0.5596061050780963,
+   0.5773082806521539
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] the link mentions 'print', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the link mentions 'etching', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the link mentions 'print', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Love in Many Forms",
+  "pitch": "From a 1715\u201396 etching that captures the tumultuous nature of love, to a 17th-century silk textile that exudes luxury and intimacy, and an ancient Greek kylix fragment hinting at everyday life, these objects explore love in diverse and compelling ways. Each piece adds a unique perspective, showing how love has been celebrated and depicted across cultures and centuries.",
+  "link": "These objects explore the concept of love through vastly different mediums and time periods. The etching 'Battle of Love and Pan' (390795) captures a mythological encounter, depicting love's chaotic and triumphant nature. The 17th-century textile 'Piece' (227817) offers a luxurious, intricate representation of love, while the ancient Greek kylix fragment (669595) hints at the intimacy and daily life tied to love. Together, they illuminate the enduring theme of love in human expression."
+ },
+ "ocean|A_band": {
+  "seed": "ocean",
+  "strategy": "A_band",
+  "idx": [
+   136,
+   204,
+   2287
+  ],
+  "ids": [
+   "15373",
+   "30955",
+   "547491"
+  ],
+  "texts": [
+   "Title: Seascape and Deluge (from Sketchbook VII). Culture: American. Medium: Black ink, graphite, on off-white wove paper",
+   "Title: Fireman's Helmet (Kajikabuto) for a Daimyo. Culture: Japanese. Medium: Gilt copper, leather, felt, silk, lacquer. Classification: Helmets",
+   "Title: Head of a man. Period: Early Dynastic Period. Medium: Wood"
+  ],
+  "sims": [
+   0.6581690697601015,
+   0.5018233223255202,
+   0.5207260241677829
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 2,
+  "errors": [
+   "the pitch mentions 'wooden', which appears in none of the descriptions; remove it."
+  ],
+  "title": "Seascape and Deluge (from Sketchbook VII)",
+  "pitch": "From the American 1886 seascape to a 17th-century Japanese fireman's helmet, and an Early Dynastic Period head, each reveals a unique perspective on water. 'Seascape and Deluge' captures the turbulent ocean, while the helmet and head offer protection and ancient reverence, showcasing humanity's enduring connection to the sea.",
+  "link": "These works contrast oceanic themes through different cultures and eras."
+ },
+ "ocean|B_cluster": {
+  "seed": "ocean",
+  "strategy": "B_cluster",
+  "idx": [
+   136,
+   1714,
+   1746
+  ],
+  "ids": [
+   "15373",
+   "400408",
+   "403866"
+  ],
+  "texts": [
+   "Title: Seascape and Deluge (from Sketchbook VII). Culture: American. Medium: Black ink, graphite, on off-white wove paper",
+   "Title: Tim Keefe, Pitcher, New York, from the Goodwin Champion series for Old Judge and Gypsy Queen Cigarettes. Medium: Commercial color lithograph. Classification: Prints|Ephemera",
+   "Title: William H. \"Yank\" Robinson, Shortstop, St. Louis Browns, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera"
+  ],
+  "sims": [
+   0.6581690697601015,
+   0.506552595319274,
+   0.4506784472633154
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Seascape and Deluge (from Sketchbook VII)",
+  "pitch": "Explore the dynamic power of water through 'Seascape and Deluge,' a vivid ink sketch of a stormy sea, contrasting with the colorful lithograph of a pitcher and the photograph of a player's splash in the field. Each piece, in its own medium, brings the ocean to life in unique ways.",
+  "link": "These works, though different, all capture moments of water and movement."
+ },
+ "ocean|C_random": {
+  "seed": "ocean",
+  "strategy": "C_random",
+  "idx": [
+   136,
+   257,
+   2433
+  ],
+  "ids": [
+   "15373",
+   "43768",
+   "644872"
+  ],
+  "texts": [
+   "Title: Seascape and Deluge (from Sketchbook VII). Culture: American. Medium: Black ink, graphite, on off-white wove paper",
+   "Title: \u7389\u63d2\u5c4f|Table screen. Culture: China. Period: Ming dynasty (1368\u20131644). Medium: Nephrite. Classification: Jade",
+   "Title: Card Number 12, Minnie Dupree, from the Actors and Actresses series (N145-2) issued by Duke Sons & Co. to promote Cross Cut Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera"
+  ],
+  "sims": [
+   0.6581690697601015,
+   0.5877854219843734,
+   0.5084779233677921
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] the link mentions 'ink', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] evidence phrase 2 ('Black ink, graphite, on off-white wove paper') is not copied exactly from Object 2's description.",
+   "[v3] the link mentions 'ink', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Voyages of the Mind",
+  "pitch": "Explore the vast expanses of imagination through scale and function. 'Seascape and Deluge' (1886) captures the grandeur of nature, while '\u7389\u63d2\u5c4f|Table screen' (Ming dynasty) offers a serene, decorative view. 'Card Number 12, Minnie Dupree' (1880s) zooms in on a fleeting moment, promoting consumer culture. Together, these works from vastly different eras and cultures chart the human connection to the ocean, from the sublime to the mundane. ",
+  "link": "scale or function"
+ },
+ "mourning|A_band": {
+  "seed": "mourning",
+  "strategy": "A_band",
+  "idx": [
+   2149,
+   1972,
+   2698
+  ],
+  "ids": [
+   "467700",
+   "446134",
+   "715804"
+  ],
+  "texts": [
+   "Title: Mourning Woman. Culture: South Netherlandish. Medium: Walnut, polychromy and gilding. Classification: Sculpture-Wood",
+   "Title: Fragment of an Inscribed Block. Medium: Limestone; incised. Classification: Sculpture",
+   "Title: Drachm of Archelaus, 400 B.C., from the Ancient Coins series (N180) issued by Wm. S. Kimball & Co.. Medium: Commercial color lithograph. Classification: Prints|Ephemera"
+  ],
+  "sims": [
+   0.7126894620796518,
+   0.4742288243759134,
+   0.4601598896020338
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 3,
+  "errors": [
+   "the pitch mentions 'stone', which appears in none of the descriptions; remove it.",
+   "evidence phrase 2 ('Walnut, polychromy and gilding') is not copied exactly from Object 2's description."
+  ],
+  "title": "Mourning Woman",
+  "pitch": "Explore the essence of mourning through different eras. The 15th-century 'Mourning Woman' in walnut wood captures a poignant moment, while the 6th-century 'Fragment of an Inscribed Block' in limestone conveys gravitas through incised lines. The 1888 lithograph portrays a different form of remembrance, each adding a layer to the human experience of loss. Each object reflects the gravity of the moment, inviting contemplation on the shared human condition of mourning.",
+  "link": "These works contrast in material and technique yet share a somber essence."
+ },
+ "mourning|B_cluster": {
+  "seed": "mourning",
+  "strategy": "B_cluster",
+  "idx": [
+   2149,
+   2722,
+   2884
+  ],
+  "ids": [
+   "467700",
+   "721443",
+   "768761"
+  ],
+  "texts": [
+   "Title: Mourning Woman. Culture: South Netherlandish. Medium: Walnut, polychromy and gilding. Classification: Sculpture-Wood",
+   "Title: Terracotta fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Archaic. Medium: Terracotta. Classification: Vases",
+   "Title: Terracotta fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Archaic/Early Classical. Medium: Terracotta. Classification: Vases"
+  ],
+  "sims": [
+   0.7126894620796518,
+   0.5023683377233444,
+   0.504282819406831
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Mourning Woman",
+  "pitch": "Explore the profound expressions of loss. ",
+  "link": "While "
+ },
+ "mourning|C_random": {
+  "seed": "mourning",
+  "strategy": "C_random",
+  "idx": [
+   2149,
+   2178,
+   2829
+  ],
+  "ids": [
+   "467700",
+   "470983",
+   "753438"
+  ],
+  "texts": [
+   "Title: Mourning Woman. Culture: South Netherlandish. Medium: Walnut, polychromy and gilding. Classification: Sculpture-Wood",
+   "Title: Double Capital. Culture: French. Medium: marble. Classification: Sculpture-Architectural",
+   "Title: Terracotta fragment of a skyphos (deep drinking cup). Culture: Greek, Attic. Period: Archaic. Medium: Terracotta. Classification: Vases"
+  ],
+  "sims": [
+   0.7126894620796518,
+   0.4736813588372589,
+   0.4997850158592729
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "467700",
+  "pitch": "From a South Netherlandish sculpture of a mourning woman to an ancient Greek drinking cup, these objects explore grief and remembrance. The marble 'Double Capital' adds a grand architectural perspective, contrasting the intimate and personal emotions in 'Mourning Woman.' The terracotta fragment, though utilitarian, hints at the lasting impact of loss across cultures and eras.",
+  "link": "These works span centuries and materials, yet each evokes a sense of loss and memory."
+ },
+ "gold|A_band": {
+  "seed": "gold",
+  "strategy": "A_band",
+  "idx": [
+   1184,
+   2432,
+   1943
+  ],
+  "ids": [
+   "317695",
+   "644397",
+   "444098"
+  ],
+  "texts": [
+   "Title: Gold Weight: Seated Male. Culture: Akan peoples. Medium: Brass. Classification: Metal-Implements",
+   "Title: The White House, Washington, D.C., from the Transparencies series (N137) issued by W. Duke, Sons & Co. to promote Honest Long Cut Tobacco. Medium: Commercial color lithograph. Classification: Prints|Ephemera",
+   "Title: Textile Fragment. Medium: Wool, linen; plain weave, tapestry weave. Classification: Textiles"
+  ],
+  "sims": [
+   0.770775942207103,
+   0.5295087274619757,
+   0.519954099373244
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] the link mentions 'gold', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] evidence phrase 2 ('Brass') is not copied exactly from Object 2's description.",
+   "[v3] evidence phrase 2 ('Brass') is not copied exactly from Object 2's description."
+  ],
+  "title": "Gold's Diverse Manifestations",
+  "pitch": "Explore how gold, in its many forms, has been revered for its beauty and value. From the Akan brass weight's durable metal to the White House lithograph's evocative use of gold, and the vibrant wool fragment's textile craftsmanship, each object reveals gold\u2019s timeless appeal. Discover how this precious metal transforms across cultures and time.",
+  "link": "The brass weight 'Seated Male' from the Akan peoples, a 18th\u201319th century metal implement, showcases gold as a precious metal valued for its durability and aesthetic appeal. In stark contrast, the late 1880s lithograph of The White House uses gold hues to evoke luxury and prominence. Meanwhile, the 4th century textile fragment highlights gold as a thread, adding a vibrant color. Together, these objects illustrate gold's enduring significance across cultures and mediums. "
+ },
+ "gold|B_cluster": {
+  "seed": "gold",
+  "strategy": "B_cluster",
+  "idx": [
+   1184,
+   1747,
+   1742
+  ],
+  "ids": [
+   "317695",
+   "403946",
+   "403203"
+  ],
+  "texts": [
+   "Title: Gold Weight: Seated Male. Culture: Akan peoples. Medium: Brass. Classification: Metal-Implements",
+   "Title: George W. McVey, Catcher, St. Joseph Clay Eaters, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera",
+   "Title: John Stewart \"Pop\" Corkhill, Center Field, Cincinnati, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera"
+  ],
+  "sims": [
+   0.770775942207103,
+   0.5551385175887855,
+   0.5096232111396993
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] the link mentions 'brass', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] evidence phrase 2 ('Medium: Brass') is not copied exactly from Object 2's description.",
+   "[v3] evidence phrase 2 ('Medium: Brass') is not copied exactly from Object 2's description."
+  ],
+  "title": "Gold in Context",
+  "pitch": "Explore the enduring allure of gold through the Akan gold weight and two 19th-century photographs. The weight, a 18th\u201319th century symbol of Akan ritual and trade, contrasts with the baseball players from 1888 and 1889, capturing ephemeral moments in albumen. Both pieces highlight gold\u2019s timeless value, whether in ancient or modern contexts.",
+  "link": "The Akan gold weight and the photographs share the precious metal, though in vastly different ways. The weight, a brass piece from 18th\u201319th century Akan culture, symbolizes value in ritual and trade. The photographs, from 1888 and 1889, depict American baseball players, ephemeral moments captured in albumen. Both highlight the enduring allure of gold, whether in ancient or modern form. Explore how gold signifies value across cultures and eras."
+ },
+ "gold|C_random": {
+  "seed": "gold",
+  "strategy": "C_random",
+  "idx": [
+   1184,
+   2415,
+   2012
+  ],
+  "ids": [
+   "317695",
+   "625966",
+   "450560"
+  ],
+  "texts": [
+   "Title: Gold Weight: Seated Male. Culture: Akan peoples. Medium: Brass. Classification: Metal-Implements",
+   "Title: Apollo and the Cumean Sibyl. Medium: Engraving. Classification: Prints",
+   "Title: Tile Fragment. Medium: Stonepaste; polychrome painted under transparent glaze. Classification: Ceramics-Tiles"
+  ],
+  "sims": [
+   0.770775942207103,
+   0.5493588255077321,
+   0.5216056995878975
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] the link mentions 'brass', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] evidence phrase 2 ('Brass') is not copied exactly from Object 2's description.",
+   "[v3] evidence phrase 2 ('Brass') is not copied exactly from Object 2's description."
+  ],
+  "title": "Gold Through Time",
+  "pitch": "Explore the multifaceted use of gold in 'Gold Through Time.' The Akan brass weight 'Seated Male' showcases gold\u2019s symbolic value, while the engraving 'Apollo and the Cumean Sibyl' uses gold-like ink for intricate detail. The tile fragment, with its vibrant polychrome design, adds a third perspective on decorative artistry. Each object, though distinct, captures the enduring allure of gold in different cultural contexts.",
+  "link": "The brass weight 'Seated Male' from the Akan peoples of West Africa uses gold as a symbol of prestige, contrasting with the engraved print 'Apollo and the Cumean Sibyl,' which employs gold-like ink for its ornate design. The tile fragment, though not using gold, reflects similar decorative complexity from the Islamic world. Together, these objects explore the cultural significance and aesthetic value of gold across centuries and continents."
+ },
+ "music|A_band": {
+  "seed": "music",
+  "strategy": "A_band",
+  "idx": [
+   2262,
+   1327,
+   1536
+  ],
+  "ids": [
+   "505307",
+   "337922",
+   "377684"
+  ],
+  "texts": [
+   "Title: Guitar. Culture: German. Medium: Wood, ivory, ebony. Classification: Chordophone-Lute-plucked-fretted",
+   "Title: Messenger at the Door of a Guardhouse. Medium: Pen and brown ink, brown wash, over a red chalk counterproof, and traces of graphite. Classification: Drawings",
+   "Title: The columns of the Temple of Antoninus to right, a part of the Campo Vaccino in center and at left, along with various animals and figures, the Palatine ruins in the background, from \"Six large views, four of Rome, and two of the Roman countryside\" (Six grandes vues, dont quatre de Rome et deux de la Campagne romaine). Medium: Etching; second state of two. Classification: Prints"
+  ],
+  "sims": [
+   0.7591515702982619,
+   0.5711222332124445,
+   0.552070620333341
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Evidence_1: Guitar",
+  "pitch": "Explore the diverse expressions of sound and vision. From the intricate woodwork of the 17th-century Guitar to the delicate ink of Messenger at the Door and the dynamic etching of Roman Ruins, each object captures a moment in time through unique mediums. Discover how artists and craftsmen brought music and scenes to life.",
+  "link": "A sharp contrast in materials and techniques"
+ },
+ "music|B_cluster": {
+  "seed": "music",
+  "strategy": "B_cluster",
+  "idx": [
+   2262,
+   1734,
+   1737
+  ],
+  "ids": [
+   "505307",
+   "402038",
+   "402759"
+  ],
+  "texts": [
+   "Title: Guitar. Culture: German. Medium: Wood, ivory, ebony. Classification: Chordophone-Lute-plucked-fretted",
+   "Title: Getzein, Pitcher, Indianapolis, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera",
+   "Title: James Francis \"Pud\" Galvin, Pitcher, Pittsburgh, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera"
+  ],
+  "sims": [
+   0.7591515702982619,
+   0.5417477423482899,
+   0.5501058262588487
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Guitar",
+  "pitch": "Explore the evolution of musical expression from the 17th-century German lute to late 19th-century promotional ephemera. The guitar\u2019s intricate craftsmanship contrasts sharply with the getzein pitcher and the Old Judge series photographs, which celebrate sports figures instead of musical instruments.",
+  "link": "While the guitar is a musical instrument, the photographs are advertisements for cigarettes."
+ },
+ "music|C_random": {
+  "seed": "music",
+  "strategy": "C_random",
+  "idx": [
+   2262,
+   1334,
+   1613
+  ],
+  "ids": [
+   "505307",
+   "338304",
+   "387378"
+  ],
+  "texts": [
+   "Title: Guitar. Culture: German. Medium: Wood, ivory, ebony. Classification: Chordophone-Lute-plucked-fretted",
+   "Title: Horae, B.M.V.  use of Rome. Medium: Printed on paper. Classification: Books",
+   "Title: Christ bearing the Cross. Medium: Woodcut. Classification: Prints"
+  ],
+  "sims": [
+   0.7591515702982619,
+   0.6110290763799413,
+   0.5982253851990235
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 3,
+  "errors": [
+   "the pitch says 'anonymous', which no description supports; remove invented attributions.",
+   "the pitch says 'anonymous', which no description supports; remove invented attributions."
+  ],
+  "title": "Guitar",
+  "pitch": "Explore the essence of music with a German guitar from 1695, a book of music by B.M.V. Horae from 1504, and a print of Christ bearing the Cross. Each adds a unique layer to the musical experience, from the craftsmanship of the lute to the printed score and the sacred imagery.",
+  "link": "These objects span different eras and media but share the purpose of enhancing musical experiences."
+ },
+ "storm|A_band": {
+  "seed": "storm",
+  "strategy": "A_band",
+  "idx": [
+   141,
+   2705,
+   1711
+  ],
+  "ids": [
+   "16108",
+   "717879",
+   "400190"
+  ],
+  "texts": [
+   "Title: Storm King, 1871 (from Sketchbook). Culture: American. Medium: Graphite on paper",
+   "Title: Five of Diamonds, from the Transparent Playing Cards series (N220) issued by Kinney Bros.. Medium: Commercial color lithograph. Classification: Prints|Ephemera",
+   "Title: John Wesley \"Jack\" Glassock, Shortstop, Indianapolis, from the series Old Judge Cigarettes. Medium: Albumen photograph, cabinet card. Classification: Photographs|Ephemera"
+  ],
+  "sims": [
+   0.6681744195498114,
+   0.46310016439927915,
+   0.47095729923105556
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "16108",
+  "pitch": "Explore the force of nature through three distinct stormy visions: an 1871 American sketch, a vivid 1888 lithograph, and a 1887 photograph. Each adds a unique perspective to the tempest.",
+  "link": "These stormy scenes, from different eras and media, each capture the raw power and drama of nature."
+ },
+ "storm|B_cluster": {
+  "seed": "storm",
+  "strategy": "B_cluster",
+  "idx": [
+   141,
+   2061,
+   1937
+  ],
+  "ids": [
+   "16108",
+   "454562",
+   "443883"
+  ],
+  "texts": [
+   "Title: Storm King, 1871 (from Sketchbook). Culture: American. Medium: Graphite on paper",
+   "Title: Textile Fragment. Medium: Silk. Classification: Textiles",
+   "Title: Fragment of a Shoulder Band. Medium: Wool, linen; plain weave, tapestry weave. Classification: Textiles"
+  ],
+  "sims": [
+   0.6681744195498114,
+   0.4799720795006909,
+   0.4694332265248714
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] evidence phrase 2 ('Graphite on paper') is not copied exactly from Object 2's description.",
+   "[v3] the link mentions 'graphite', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] evidence phrase 2 ('4th century') is not copied exactly from Object 2's description."
+  ],
+  "title": "Storms of Time and Imagination",
+  "pitch": "Explore the tempestuous spirit in three distinct mediums: an American sketch of a fierce storm, a 16th-17th century silk fragment depicting stormy skies, and a 4th century wool tapestry fragment with intricate storm motifs. Each piece captures the raw power of nature and the artist's imagination, reflecting the universal experience of storms through time.",
+  "link": "The graphite sketch of Storm King (1871) captures the dynamic forces of nature with its sharp, expressive lines, while the 16th-17th century silk fragment and 4th century wool linen tapestry fragment from Islamic Art showcase the intricate patterns and textures that symbolize stormy weather and the passage of time. Each piece offers a unique perspective on the ever-changing landscape of nature and human creativity."
+ },
+ "storm|C_random": {
+  "seed": "storm",
+  "strategy": "C_random",
+  "idx": [
+   141,
+   2833,
+   1875
+  ],
+  "ids": [
+   "16108",
+   "755798",
+   "423673"
+  ],
+  "texts": [
+   "Title: Storm King, 1871 (from Sketchbook). Culture: American. Medium: Graphite on paper",
+   "Title: Terracotta fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Archaic. Medium: Terracotta. Classification: Vases",
+   "Title: A Short History of General John Clifford Pemberton, from the Histories of Generals series of booklets (N78) for Duke brand cigarettes. Medium: Commercial color lithograph. Classification: Prints|Ephemera"
+  ],
+  "sims": [
+   0.6681744195498114,
+   0.5318025455653272,
+   0.467099752753184
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] the link must be ONE sentence of at most 35 words (it has 28 words).",
+   "[v3] the link mentions 'pottery', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] evidence phrase 2 ('Graphite on paper') is not copied exactly from Object 2's description."
+  ],
+  "title": "Exploring Storms: From Nature to Myth to Commerce",
+  "pitch": "From the raw power of nature in 'Storm King, 1871' to the classical order of ancient Greece and the metaphorical storms in a commercial pamphlet, this exhibition explores the enduring impact of storms across time and culture. Each object offers a distinct lens through which to view the storm's profound influence on human experience and expression, tying back to the visitor's search word, 'storm.' Explore how storms have inspired art, commerce, and the human imagination for centuries, offering a rich tapestry of interpretations and reflections on nature's might and mankind's response to it.",
+  "link": "The central theme of storms is explored through diverse mediums and time periods. The American sketch, 'Storm King, 1871,' captures the raw power of nature, while the ancient Greek kylix fragment, with its intricate designs, contrasts the storm's chaotic beauty with the orderly perfection of classical art. The Duke cigarette pamphlet, 'A Short History of General John Clifford Pemberton,' uses storm imagery to symbolize conflict and commerce, highlighting how storms have been a metaphor for chaos and change across centuries. Each object adds a unique perspective on the enduring impact of storms on human culture and experience."
+ },
+ "childhood|A_band": {
+  "seed": "childhood",
+  "strategy": "A_band",
+  "idx": [
+   1373,
+   948,
+   2000
+  ],
+  "ids": [
+   "341923",
+   "248947",
+   "449127"
+  ],
+  "texts": [
+   "Title: Madonna and Children. Medium: Pen and ink, brush and wash. Classification: Drawings",
+   "Title: Glass perfume bottle. Culture: Islamic. Medium: Glass. Classification: Glass",
+   "Title: Bowl. Medium: Earthenware; red slip covered and polychrome painted under transparent glaze. Classification: Ceramics"
+  ],
+  "sims": [
+   0.6616514049531568,
+   0.49684342381115465,
+   0.508987352035086
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Madonna and Children",
+  "pitch": "Explore the essence of childhood through time and culture. The 16th-century drawing 'Madonna and Children' captures tender family moments. The Islamic glass perfume bottle from the 8th\u20139th century, and the 9th-century bowl, add layers of daily life and craftsmanship, revealing how care and playfulness have spanned centuries.",
+  "link": "These works, from different eras and cultures, share an intimate quality."
+ },
+ "childhood|B_cluster": {
+  "seed": "childhood",
+  "strategy": "B_cluster",
+  "idx": [
+   1373,
+   1729,
+   1744
+  ],
+  "ids": [
+   "341923",
+   "401720",
+   "403531"
+  ],
+  "texts": [
+   "Title: Madonna and Children. Medium: Pen and ink, brush and wash. Classification: Drawings",
+   "Title: Dan Dugdale, Catcher, Chicago, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera",
+   "Title: Parke B. Swartzel, Pitcher, Kansas City Cowboys, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera"
+  ],
+  "sims": [
+   0.6616514049531568,
+   0.4818881801177819,
+   0.4839027192364796
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Madonna and Children",
+  "pitch": "Explore the enduring theme of childhood through time. From a 16th-century Madonna and Children drawing to 1888 photographs of youthful cowboys, see how the concept of innocence and play has been captured differently. Each work offers a unique glimpse into its era's vision of childhood.",
+  "link": "A 16th-century drawing contrasts with late 19th-century photographs."
+ },
+ "childhood|C_random": {
+  "seed": "childhood",
+  "strategy": "C_random",
+  "idx": [
+   1373,
+   980,
+   2158
+  ],
+  "ids": [
+   "341923",
+   "252108",
+   "468821"
+  ],
+  "texts": [
+   "Title: Madonna and Children. Medium: Pen and ink, brush and wash. Classification: Drawings",
+   "Title: Chalcedony rectangular prism. Culture: Minoan. Period: Middle Minoan II-III. Medium: Chalcedony. Classification: Gems",
+   "Title: Key. Culture: German. Medium: Iron. Classification: Metalwork-Iron"
+  ],
+  "sims": [
+   0.6616514049531568,
+   0.5392708115663924,
+   0.5325736195662669
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Madonna and Children",
+  "pitch": "From the 16th-century Madonna and Children, to the 4,000-year-old Minoan gem, and a 15th-century German key, each object tells a story of childhood. The Madonna\u2019s embrace contrasts with the ancient gem\u2019s intricate design and the practical key\u2019s simple form, illustrating the timeless essence of innocence and care.",
+  "link": "These works span centuries and media, yet each captures a moment of life."
+ },
+ "ritual|A_band": {
+  "seed": "ritual",
+  "strategy": "A_band",
+  "idx": [
+   1168,
+   1455,
+   2498
+  ],
+  "ids": [
+   "316298",
+   "363062",
+   "662904"
+  ],
+  "texts": [
+   "Title: Ritual Stone (pulidor). Culture: Olmec. Medium: Stone. Classification: Stone-Implements",
+   "Title: The combat of Hector and Achilles, and Achilles dragging the body of Hector around the walls of Troy. Medium: Engraving. Classification: Prints",
+   "Title: Les Secondes Oeuvres, et Subtiles Inventions De Lingerie du Seigneur Federic de Vinciolo Venitien, page 13 (recto). Medium: Woodcut. Classification: Books|Prints|Ornament & Architecture"
+  ],
+  "sims": [
+   0.7237845066351883,
+   0.5257232058780397,
+   0.521542489665014
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 5,
+  "errors": [
+   "[v3] evidence phrase 2 ('Medium: Stone') is not copied exactly from Object 2's description.",
+   "[v3] the pitch is 116 words; it must be at most 100. Shorten it.",
+   "[v3] the link mentions 'Stone', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v2] the output was not valid JSON for the schema (OutputParserException)."
+  ],
+  "title": "Exploring Rituals Through Time and Culture",
+  "pitch": "Discover the essence of ritual through diverse cultures and eras. The Olmec Ritual Stone (pulidor) from 12th\u20138th century BCE symbolizes ancient Mesoamerican ceremonial practices. Contrast this with The combat of Hector and Achilles, an engraving from 1531\u201376, depicting a heroic ritual in Greek mythology. Lastly, Les Secondes Oeuvres, a 1603 woodcut, illustrates Venetian fashion rituals. Each object reveals unique facets of ritualistic behavior, connecting us to timeless human traditions and ceremonies.",
+  "link": "All three objects, despite their different origins and media, serve ritualistic purposes."
+ },
+ "ritual|B_cluster": {
+  "seed": "ritual",
+  "strategy": "B_cluster",
+  "idx": [
+   1168,
+   1733,
+   1749
+  ],
+  "ids": [
+   "316298",
+   "402025",
+   "404601"
+  ],
+  "texts": [
+   "Title: Ritual Stone (pulidor). Culture: Olmec. Medium: Stone. Classification: Stone-Implements",
+   "Title: Daley, Catcher, Indianapolis, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera",
+   "Title: Al C. Hungler, Pitcher, Sioux City Corn Huskers, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera"
+  ],
+  "sims": [
+   0.7237845066351883,
+   0.4336358829787932,
+   0.4569909219615136
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 3,
+  "errors": [
+   "evidence phrase 3 ('1887') is not copied exactly from Object 3's description.",
+   "evidence phrase 2 ('Stone') is not copied exactly from Object 2's description."
+  ],
+  "title": "Ritual Stone (pulidor)",
+  "pitch": "Explore the essence of ritual through time with a 3rd-century BCE Olmec stone tool and late 19th-century photographic portraits. Both objects capture the cultural significance of their respective eras, offering a unique glimpse into the rituals of their societies.",
+  "link": "A contrast between ancient stone ritual tools and 19th-century photographic ephemera."
+ },
+ "ritual|C_random": {
+  "seed": "ritual",
+  "strategy": "C_random",
+  "idx": [
+   1168,
+   1264,
+   2610
+  ],
+  "ids": [
+   "316298",
+   "326671",
+   "698448"
+  ],
+  "texts": [
+   "Title: Ritual Stone (pulidor). Culture: Olmec. Medium: Stone. Classification: Stone-Implements",
+   "Title: Pin. Culture: Bactria-Margiana Archaeological Complex. Period: Bronze Age. Medium: Copper alloy. Classification: Metalwork-Ornaments",
+   "Title: Choice of Songs put into Music by M. de la Borde. Medium: Etching and engraving. Classification: Prints"
+  ],
+  "sims": [
+   0.7237845066351883,
+   0.5787620941963558,
+   0.5555214258871077
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 5,
+  "errors": [
+   "[v3] the link mentions 'print', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the pitch/link names ['Bactrian'], which appear in no description. Remove anything not in the descriptions.",
+   "[v3] the output was not valid JSON for the schema (OutputParserException).",
+   "[v2] the pitch text must not contain IDs or the word object_ids (found [698448, 316298, 326671]); put IDs only in object_ids."
+  ],
+  "title": "Ritual Stones and Their Transformations",
+  "pitch": "Explore the ritual significance of stone across cultures and centuries. From the Olmec\u2019s Ritual Stone, used in ceremonies, to the Bactrian Pin, adorned for ritualistic purposes, and the etching of songs, transforming words into art, these objects demonstrate the enduring power of stone in ritual practice. Each reveals a unique aspect of human ritual, highlighting its universal importance through shared materiality and function.",
+  "link": "A material connects these three objects: stone. The Ritual Stone (pulidor) from the Olmec culture serves a ritual purpose, grinding and shaping ceremonial objects. The Pin from the Bactria-Margiana Archaeological Complex showcases early metalworking, used in rituals to honor deities. The Choice of Songs by M. de la Borde, an etching and engraving, explores the transformation of words into visual art, a ritual in itself. Together, they illustrate the diverse methods through which rituals have been performed and preserved across different cultures and time periods, all centered around the material of stone in various forms and uses."
+ },
+ "silence|A_band": {
+  "seed": "silence",
+  "strategy": "A_band",
+  "idx": [
+   1620,
+   2818,
+   2204
+  ],
+  "ids": [
+   "388876",
+   "750123",
+   "475022"
+  ],
+  "texts": [
+   "Title: Conversation between Mutes (Gespraech zwischen Stummen). Medium: Color lithograph. Classification: Prints",
+   "Title: Terracotta fragment of a lekythos (oil flask). Culture: Greek, Attic. Period: Archaic. Medium: Terracotta. Classification: Vases",
+   "Title: Thread. Culture: Coptic. Medium: Linen. Classification: Textiles-Woven"
+  ],
+  "sims": [
+   0.6416678164331857,
+   0.4621325382199473,
+   0.4476986640212912
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] the pitch mentions 'pottery', which appears in none of the descriptions; remove it.",
+   "[v3] the link mentions 'lithograph', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the pitch mentions 'tapestry', which appears in none of the descriptions; remove it."
+  ],
+  "title": "Silent Conversations",
+  "pitch": "Explore the theme of silence through three distinct objects: 'Conversation between Mutes' (1907) captures a silent exchange with color lithography, while a Greek lekythos (late 6th century BCE) hints at silent stories through its form. The Coptic thread (580\u2013640) embodies the quiet of time. Together, these objects reveal the many facets of silence across cultures and centuries.",
+  "link": "The color lithograph 'Conversation between Mutes' (1907) and the terracotta fragment of a lekythos (late 6th century BCE) both explore the theme of silent communication, while the Coptic thread (580\u2013640) represents the silence of time itself. Each object adds a unique layer to the concept of silence, inviting contemplation on the forms it can take across different cultures and eras."
+ },
+ "silence|B_cluster": {
+  "seed": "silence",
+  "strategy": "B_cluster",
+  "idx": [
+   1620,
+   2194,
+   1963
+  ],
+  "ids": [
+   "388876",
+   "474210",
+   "445679"
+  ],
+  "texts": [
+   "Title: Conversation between Mutes (Gespraech zwischen Stummen). Medium: Color lithograph. Classification: Prints",
+   "Title: Textile Fragment. Culture: Byzantine. Medium: Linen, wool. Classification: Textiles-Woven",
+   "Title: Fragment of a Band. Medium: Linen, wool; tapestry weave. Classification: Textiles"
+  ],
+  "sims": [
+   0.6416678164331857,
+   0.45670356665332124,
+   0.4735367232422447
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Conversation between Mutes",
+  "pitch": "Silence speaks volumes in this exhibition. 'Conversation between Mutes' (1907) captures a quiet exchange in a striking lithograph, while Byzantine and Islamic textiles from the 6th\u20138th and 3rd\u20134th centuries respectively, showcase silent stories through intricate weavings. Each piece whispers tales of human interaction without a word.",
+  "link": "These works explore the theme of communication in different mediums and eras, from a silent conversation to woven textiles."
+ },
+ "silence|C_random": {
+  "seed": "silence",
+  "strategy": "C_random",
+  "idx": [
+   1620,
+   2868,
+   2329
+  ],
+  "ids": [
+   "388876",
+   "764779",
+   "555360"
+  ],
+  "texts": [
+   "Title: Conversation between Mutes (Gespraech zwischen Stummen). Medium: Color lithograph. Classification: Prints",
+   "Title: [Photo Collage: Girl with Doll]. Medium: Albumen silver prints, lithographs. Classification: Photographs",
+   "Title: Min amulet. Period: Late Period. Medium: Faience"
+  ],
+  "sims": [
+   0.6416678164331857,
+   0.4809820012203565,
+   0.4724806517684764
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] the link mentions 'lithography', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the link mentions 'lithography', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the link mentions 'photography', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Silent Conversations",
+  "pitch": "Discover the profound themes of silence through a 1907 lithograph depicting a mute conversation, a 1875 photo collage of a girl lost in thought, and a 664\u2013332 B.C. faience amulet. Each piece reveals the depth and complexity of silence in its own unique way, inviting you to reflect on the quiet moments in life.",
+  "link": "All three objects explore the theme of silence through different mediums and time periods. The 1907 color lithograph 'Conversation between Mutes' directly addresses silence as the subject. The 1875 photo collage 'Girl with Doll' captures a moment of quiet reflection, while the Late Period faience amulet 'Min' evokes a silent prayer or wish. Together, they offer a nuanced exploration of the power of silence."
+ },
+ "harvest|A_band": {
+  "seed": "harvest",
+  "strategy": "A_band",
+  "idx": [
+   1381,
+   341,
+   332
+  ],
+  "ids": [
+   "342738",
+   "98048",
+   "90830"
+  ],
+  "texts": [
+   "Title: Christ Appearing to the Magdalen as a gardener, after D\u00fcrer. Medium: Engraving; second state of three. Classification: Prints",
+   "Title: Collar. Culture: British. Medium: [no medium available]",
+   "Title: Lace. Culture: Italian. Medium: linen"
+  ],
+  "sims": [
+   0.6238518700536536,
+   0.4774598252532626,
+   0.48926811833651196
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 6,
+  "errors": [
+   "[v3] the link mentions 'engraving', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the link mentions 'wood', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the link mentions 'prints', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v2] the pitch is cut off mid-sentence; rewrite it so it ends with a complete sentence.",
+   "[v2] the pitch text must not contain IDs or the word object_ids (found [342738, 90830]); put IDs only in object_ids."
+  ],
+  "title": "Christ Appearing to the Magdalen as a Gardener, Collar, and Lace",
+  "pitch": "Christ Appearing to the Magdalen as a Gardener portrays Christ in a role closely tied to the harvest. The collar and lace, crafted in the 19th and 18th centuries, exemplify the meticulous labor of artisans. These works together illuminate the themes of labor and nature, central to the concept of harvest.",
+  "link": "These three works, spanning centuries and cultures, all explore the theme of labor and nature. The engraving depicts Christ as a gardener, a role closely tied to the harvest. The collar and lace, however, showcase the intricate craftsmanship of their respective eras, reflecting the labor of skilled artisans. Together, they highlight the enduring connection between human labor and the natural world, central to the concept of harvest."
+ },
+ "harvest|B_cluster": {
+  "seed": "harvest",
+  "strategy": "B_cluster",
+  "idx": [
+   1381,
+   1720,
+   1754
+  ],
+  "ids": [
+   "342738",
+   "400976",
+   "405672"
+  ],
+  "texts": [
+   "Title: Christ Appearing to the Magdalen as a gardener, after D\u00fcrer. Medium: Engraving; second state of three. Classification: Prints",
+   "Title: Gantz, Catcher, Baltimore Orioles, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera",
+   "Title: Mlle. Duebet, Paris, from the Actors and Actresses series (N171) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera"
+  ],
+  "sims": [
+   0.6238518700536536,
+   0.4626997421921383,
+   0.4582228608827996
+  ],
+  "valid": false,
+  "version": "v2",
+  "attempts": 6,
+  "errors": [
+   "[v3] the link mentions 'engraving', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the link mentions 'prints', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the pitch is cut off mid-sentence; rewrite it so it ends with a complete sentence.",
+   "[v2] the pitch text must not contain IDs or the word object_ids (found [400976, 342738, 405672]); put IDs only in object_ids.",
+   "[v2] the pitch text must not contain IDs or the word object_ids (found [400976, 342738, 405672]); put IDs only in object_ids.",
+   "[v2] the output was not valid JSON for the schema (OutputParserException)."
+  ],
+  "title": null,
+  "pitch": null,
+  "link": null
+ },
+ "harvest|C_random": {
+  "seed": "harvest",
+  "strategy": "C_random",
+  "idx": [
+   1381,
+   401,
+   385
+  ],
+  "ids": [
+   "342738",
+   "141552",
+   "118764"
+  ],
+  "texts": [
+   "Title: Christ Appearing to the Magdalen as a gardener, after D\u00fcrer. Medium: Engraving; second state of three. Classification: Prints",
+   "Title: Bracelet. Culture: African. Medium: ivory",
+   "Title: Card case. Culture: American or European. Medium: tortoiseshell, mother-of-pearl"
+  ],
+  "sims": [
+   0.6238518700536536,
+   0.4792681082787219,
+   0.5056154869682075
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Christ Appearing to the Magdalen as a gardener, after D\u00fcrer",
+  "pitch": "Explore the themes of labor and craftsmanship through 'Christ Appearing to the Magdalen as a gardener,' a 16th-century engraving depicting a sacred harvest. Contrast this with an 19th-century African bracelet and a 19th-century American card case, both made from natural materials like ivory and tortoiseshell. Each piece tells a story of human work and artistry.",
+  "link": "These objects span different cultures and materials, yet each embodies labor and craftsmanship."
+ },
+ "dragon|A_band": {
+  "seed": "dragon",
+  "strategy": "A_band",
+  "idx": [
+   460,
+   1648,
+   673
+  ],
+  "ids": [
+   "188900",
+   "392154",
+   "210273"
+  ],
+  "texts": [
+   "Title: Ewer in the form of a dragon. Culture: Italian, probably Urbino. Medium: Maiolica (tin-glazed earthenware). Classification: Ceramics-Pottery",
+   "Title: Station-House Lodgers (from \"Harper's Weekly,\" Vol. XVIII). Medium: Wood engraving. Classification: Prints",
+   "Title: Surrender of Mantua, 1797. Culture: French. Medium: Gilt bronze, struck. Classification: Medals and Plaquettes"
+  ],
+  "sims": [
+   0.716025764066886,
+   0.5275382723447487,
+   0.5239945545148857
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] the link must be ONE sentence of at most 35 words (it has 35 words).",
+   "[v3] the link mentions 'ceramic', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the link mentions 'ceramic', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Legends and Lore: Exploring the Dragon in Art",
+  "pitch": "The Ewer in the form of a dragon and the Surrender of Mantua both feature the dragon motif, albeit in vastly different contexts. The Ewer showcases the mythical creature in Italian maiolica ceramics from the 17th century, while the medal uses the dragon as a symbol of power in a 1797 French work. Together, these objects reveal how the dragon, a symbol of power and strength, has inspired artists across centuries and cultures. By exploring these works, visitors will uncover the enduring appeal of this ancient mythological figure.",
+  "link": "The Ewer in the form of a dragon (Object 1) and the Surrender of Mantua (Object 3) both feature the dragon motif, albeit in vastly different contexts. The Ewer showcases the mythical creature in Italian maiolica ceramics from the 17th century, while the medal (Object 3) uses the dragon as a symbol of power in a 1797 French work. Station-House Lodgers (Object 2) provides a stark contrast, depicting a mundane scene from the early 19th century. Together, these objects reveal how the dragon, a symbol of power and strength, has inspired artists across centuries and cultures. By exploring these works, visitors will uncover the enduring appeal of this ancient mythological figure."
+ },
+ "dragon|B_cluster": {
+  "seed": "dragon",
+  "strategy": "B_cluster",
+  "idx": [
+   460,
+   724,
+   688
+  ],
+  "ids": [
+   "188900",
+   "219926",
+   "212831"
+  ],
+  "texts": [
+   "Title: Ewer in the form of a dragon. Culture: Italian, probably Urbino. Medium: Maiolica (tin-glazed earthenware). Classification: Ceramics-Pottery",
+   "Title: Lappet. Culture: Flemish. Medium: Bobbin lace, point d'Angleterre. Classification: Textiles-Laces",
+   "Title: Edging. Culture: Greek, probably Crete. Medium: Bobbin lace. Classification: Textiles-Laces"
+  ],
+  "sims": [
+   0.716025764066886,
+   0.5034406435473211,
+   0.5259465472902571
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] the pitch/link names ['Cretan'], which appear in no description. Remove anything not in the descriptions.",
+   "[v3] evidence phrase 2 ('Maiolica (tin-glazed earthenware)') is not copied exactly from Object 2's description.",
+   "[v3] the pitch is 123 words; it must be at most 100. Shorten it."
+  ],
+  "title": "Dragons and Lace: Myths and Textiles in Early Modern Europe",
+  "pitch": "The Ewer in the form of a dragon (Object 1), a striking 1600 Maiolica from Urbino, contrasts with the delicate lappets (Object 2) and edging (Object 3), both early 18th century lace from Flanders. Each piece features a dragon, emphasizing the enduring allure of mythical creatures in decorative arts. ",
+  "link": "A maiolica ewer in the form of a dragon (Object 1) shares a central motif with the lappets (Object 2) and edging (Object 3), both made of lace, highlighting the diverse expressions of mythical creatures in early European decorative arts. The ewer's dragon form, crafted in 1600, contrasts with the intricate lacework of the 18th century, showcasing how dragons were depicted across different media and periods. This exhibition explores the enduring fascination with mythical beasts through ceramics and textiles, tying back to the visitor's search for 'dragon.' "
+ },
+ "dragon|C_random": {
+  "seed": "dragon",
+  "strategy": "C_random",
+  "idx": [
+   460,
+   1837,
+   753
+  ],
+  "ids": [
+   "188900",
+   "418016",
+   "223677"
+  ],
+  "texts": [
+   "Title: Ewer in the form of a dragon. Culture: Italian, probably Urbino. Medium: Maiolica (tin-glazed earthenware). Classification: Ceramics-Pottery",
+   "Title: Goblet with Round Medallions. Medium: Engraving. Classification: Prints|Ornament & Architecture",
+   "Title: Piece. Culture: French. Medium: Silk. Classification: Textiles-Woven"
+  ],
+  "sims": [
+   0.716025764066886,
+   0.5776395979689547,
+   0.5455823712667174
+  ],
+  "valid": false,
+  "version": "v2",
+  "attempts": 6,
+  "errors": [
+   "[v3] the pitch/link names ['Renaissance'], which appear in no description. Remove anything not in the descriptions.",
+   "[v3] the link mentions 'ceramic', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the link mentions 'ceramic', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v2] the pitch text must not contain IDs or the word object_ids (found [418016, 188900, 223677]); put IDs only in object_ids.",
+   "[v2] the output was not valid JSON for the schema (OutputParserException).",
+   "[v2] the output was not valid JSON for the schema (OutputParserException)."
+  ],
+  "title": null,
+  "pitch": null,
+  "link": null
+ },
+ "mirror|A_band": {
+  "seed": "mirror",
+  "strategy": "A_band",
+  "idx": [
+   832,
+   2439,
+   2373
+  ],
+  "ids": [
+   "239463",
+   "646606",
+   "565100"
+  ],
+  "texts": [
+   "Title: Wall mirror. Culture: German, Potsdam or Berlin. Medium: Pine, lindenwood, painted and gilded, mirror glass. Classification: Woodwork-Furniture",
+   "Title: Card Number 362, Augusta Walkup, from the Actors and Actresses series (N145-3) issued by Duke Sons & Co. to promote Cross Cut Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera",
+   "Title: Stamp Inscribed for the Goddess Renenutet. Period: New Kingdom. Medium: Wood"
+  ],
+  "sims": [
+   0.7236928336826016,
+   0.5171215179840896,
+   0.5308547166594244
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Wall mirror",
+  "pitch": "Explore the mirror's role in 18th-century luxury with a German wall mirror from Potsdam. Nearby, a 19th-century photographic card from Duke Sons & Co. showcases the shift to modern imagery. Each tells a story of its time.",
+  "link": "A striking 18th-century German wall mirror contrasts with a late 19th-century photographic card."
+ },
+ "mirror|B_cluster": {
+  "seed": "mirror",
+  "strategy": "B_cluster",
+  "idx": [
+   832,
+   1749,
+   1754
+  ],
+  "ids": [
+   "239463",
+   "404601",
+   "405672"
+  ],
+  "texts": [
+   "Title: Wall mirror. Culture: German, Potsdam or Berlin. Medium: Pine, lindenwood, painted and gilded, mirror glass. Classification: Woodwork-Furniture",
+   "Title: Al C. Hungler, Pitcher, Sioux City Corn Huskers, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera",
+   "Title: Mlle. Duebet, Paris, from the Actors and Actresses series (N171) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera"
+  ],
+  "sims": [
+   0.7236928336826016,
+   0.4743526919347935,
+   0.5335261550764249
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Wall mirror.",
+  "pitch": "Explore the art of reflection through time with a 1755 German mirror and two Old Judge cigarette card photographs from 1889 and 1886. Each piece mirrors the era\u2019s aesthetics but through distinct materials and techniques.",
+  "link": "This 18th-century German mirror contrasts with the late 19th-century photographs, both capturing reflections but in very different mediums."
+ },
+ "mirror|C_random": {
+  "seed": "mirror",
+  "strategy": "C_random",
+  "idx": [
+   832,
+   2687,
+   2594
+  ],
+  "ids": [
+   "239463",
+   "713756",
+   "693522"
+  ],
+  "texts": [
+   "Title: Wall mirror. Culture: German, Potsdam or Berlin. Medium: Pine, lindenwood, painted and gilded, mirror glass. Classification: Woodwork-Furniture",
+   "Title: Terracotta fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Archaic. Medium: Terracotta. Classification: Vases",
+   "Title: Terracotta rim fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Late Archaic. Medium: Terracotta. Classification: Vases"
+  ],
+  "sims": [
+   0.7236928336826016,
+   0.5699588932490331,
+   0.5773176088957881
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 3,
+  "errors": [
+   "the link mentions 'pottery', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "the pitch mentions 'pottery', which appears in none of the descriptions; remove it."
+  ],
+  "title": "Wall mirror",
+  "pitch": "Explore the 5th century BCE through a German mirror from Potsdam and two Greek terracotta kylix fragments. Each reveals the craftsmanship of its time, from pine and gilding to terracotta, highlighting the mirror's era in contrast. Reflect on the diverse artistic expressions of the age.",
+  "link": "Both objects are from the 5th century BCE, showcasing different cultures."
+ },
+ "bridge|A_band": {
+  "seed": "bridge",
+  "strategy": "A_band",
+  "idx": [
+   1821,
+   340,
+   2153
+  ],
+  "ids": [
+   "416107",
+   "91118",
+   "468254"
+  ],
+  "texts": [
+   "Title: Plate 4: landscape with man leading a pack horse across a wooden bridge, three figures in right foreground, the silhouette of a man standing at a fence beyond, from 'Landscapes'. Medium: Etching. Classification: Prints",
+   "Title: Vest. Culture: American or European. Medium: silk",
+   "Title: Manuscript Illumination with Adoration of the Magi. Culture: South Netherlandish. Medium: Tempera, ink, and shell gold on parchment. Classification: Manuscripts and Illuminations"
+  ],
+  "sims": [
+   0.6923479489081874,
+   0.4837655332883758,
+   0.4973343605948809
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 2,
+  "errors": [
+   "the pitch/link names ['Europe'], which appear in no description. Remove anything not in the descriptions."
+  ],
+  "title": "Plate 4: landscape with man leading a pack horse across a wooden bridge, three figures in right foreground, the silhouette of a man standing at a fence beyond, from 'Landscapes'",
+  "pitch": "Explore the concept of passage and perspective with 'Plate 4', an etching of a wooden bridge, contrasting it with a silk vest and a manuscript illumination. Each piece, though distinct in material\u2014etching, silk, and parchment\u2014bridges worlds of narrative and artistry, inviting you to ponder the journeys they depict.",
+  "link": "Different materials and techniques, yet all bridge visual narratives."
+ },
+ "bridge|B_cluster": {
+  "seed": "bridge",
+  "strategy": "B_cluster",
+  "idx": [
+   1821,
+   1812,
+   2478
+  ],
+  "ids": [
+   "416107",
+   "415550",
+   "658457"
+  ],
+  "texts": [
+   "Title: Plate 4: landscape with man leading a pack horse across a wooden bridge, three figures in right foreground, the silhouette of a man standing at a fence beyond, from 'Landscapes'. Medium: Etching. Classification: Prints",
+   "Title: From the Actors and Actresses series (N45, Type 5) for Virginia Brights Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera",
+   "Title: Mary Anderson, from the Actresses series (N246), Type 2, issued by Kinney Brothers to promote Sporting Extra Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera"
+  ],
+  "sims": [
+   0.6923479489081874,
+   0.45292129475129134,
+   0.46250669532366656
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 3,
+  "errors": [
+   "the link mentions 'etching', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "the pitch mentions 'photography', which appears in none of the descriptions; remove it."
+  ],
+  "title": "Plate 4: landscape with man leading a pack horse across a wooden bridge, three figures in right foreground, the silhouette of a man standing at a fence beyond, from 'Landscapes'",
+  "pitch": "Explore the diverse representations of bridges through time. Etching from 1723\u201330 shows a rustic wooden bridge in a landscape, while two ephemeral photographs from the late 19th century depict actresses standing on bridges, each offering unique perspectives on connectivity and transition.",
+  "link": "Etching contrasts with photographs, both capturing the essence of a bridge in different ways."
+ },
+ "bridge|C_random": {
+  "seed": "bridge",
+  "strategy": "C_random",
+  "idx": [
+   1821,
+   450,
+   2493
+  ],
+  "ids": [
+   "416107",
+   "187789",
+   "661942"
+  ],
+  "texts": [
+   "Title: Plate 4: landscape with man leading a pack horse across a wooden bridge, three figures in right foreground, the silhouette of a man standing at a fence beyond, from 'Landscapes'. Medium: Etching. Classification: Prints",
+   "Title: Wall panel tiles. Culture: Spanish, Seville. Medium: Tin-glazed and luster-painted earthenware. Classification: Ceramics-Pottery",
+   "Title: Corona delle Nobili et Virtuose Donne: Libro I-IV, page 93 (recto). Medium: Woodcut. Classification: Books|Prints|Ornament & Architecture"
+  ],
+  "sims": [
+   0.6923479489081874,
+   0.46886214356446865,
+   0.5286391579759654
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Plate 4: landscape with man leading a pack horse across a wooden bridge, three figures in right foreground, the silhouette of a man standing at a fence beyond, from 'Landscapes'",
+  "pitch": "Explore the art of bridging landscapes through time and medium. From a 1720s etching depicting a wooden bridge to 16th-century Spanish tiles and 1601 woodcuts, each piece illustrates the beauty and functionality of bridges in different eras and cultures. See how artists and craftsmen use various techniques to represent these crucial links in our world.",
+  "link": "Diverse materials, including etching and woodcut, create dynamic landscapes."
+ },
+ "night|A_band": {
+  "seed": "night",
+  "strategy": "A_band",
+  "idx": [
+   1385,
+   2653,
+   1880
+  ],
+  "ids": [
+   "343210",
+   "708935",
+   "424666"
+  ],
+  "texts": [
+   "Title: The Complaint and the Consolation; or, Night Thoughts. Medium: Illustrations: etching and engraving. Classification: Books|Prints",
+   "Title: Actress standing with hand on hip, from the Actresses series (N668). Medium: Albumen photograph. Classification: Photographs|Ephemera",
+   "Title: Caricatured figure / A Regular Corker, from the Jokes series (N87) for Duke brand cigarettes. Medium: Commercial color lithograph. Classification: Prints|Ephemera"
+  ],
+  "sims": [
+   0.6944288892653621,
+   0.5275000581369753,
+   0.5271151102544434
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 6,
+  "errors": [
+   "[v3] the link mentions 'photographs', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the link mentions 'photography', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the link mentions 'lithography', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v2] the output was not valid JSON for the schema (OutputParserException).",
+   "[v2] the output was not valid JSON for the schema (OutputParserException)."
+  ],
+  "title": "Exploring Night Through Different Lenses",
+  "pitch": "The etching and engraving from 1797, 'The Complaint and the Consolation; or, Night Thoughts,' captures the reflective and introspective nature of night. In contrast, the 1888 photograph of an actress standing with her hand on her hip and the 1890 lithograph of a caricatured figure, both from the Actresses series, offer a glimpse into the vibrant nightlife and entertainment of the late 19th century. Together, these objects explore the multifaceted experience of night\u2014both its solitude and its excitement. This exhibition invites you to reflect on the varied meanings and experiences of night in our lives.",
+  "link": "The etching and engraving from 1797, 'The Complaint and the Consolation; or, Night Thoughts,' captures the reflective and introspective nature of night. In contrast, the 1888 photograph of an actress standing with her hand on her hip and the 1890 lithograph of a caricatured figure, both from the Actresses series, offer a glimpse into the vibrant nightlife and entertainment of the late 19th century. Together, these objects explore the multifaceted experience of night\u2014both its solitude and its excitement. This exhibition invites you to reflect on the varied meanings and experiences of night in our lives."
+ },
+ "night|B_cluster": {
+  "seed": "night",
+  "strategy": "B_cluster",
+  "idx": [
+   1385,
+   1751,
+   1744
+  ],
+  "ids": [
+   "343210",
+   "405111",
+   "403531"
+  ],
+  "texts": [
+   "Title: The Complaint and the Consolation; or, Night Thoughts. Medium: Illustrations: etching and engraving. Classification: Books|Prints",
+   "Title: Pauline Markham, from the Actors and Actresses series (N171) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera",
+   "Title: Parke B. Swartzel, Pitcher, Kansas City Cowboys, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera"
+  ],
+  "sims": [
+   0.6944288892653621,
+   0.5089254827056459,
+   0.5105112649859094
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 2,
+  "errors": [
+   "the output was not valid JSON for the schema (OutputParserException)."
+  ],
+  "title": "The Night in Many Forms",
+  "pitch": "From the profound etchings of 'Night Thoughts' to the ephemeral snapshots of actors and cowboys, this exhibition captures night's varied moods. Delve into the darkness of the human spirit and the light of everyday moments, all under the cover of night.",
+  "link": "These objects explore night in stark contrast: one through the deep etching of the human soul, the other through the fleeting images of everyday life."
+ },
+ "night|C_random": {
+  "seed": "night",
+  "strategy": "C_random",
+  "idx": [
+   1385,
+   2792,
+   2078
+  ],
+  "ids": [
+   "343210",
+   "740901",
+   "459386"
+  ],
+  "texts": [
+   "Title: The Complaint and the Consolation; or, Night Thoughts. Medium: Illustrations: etching and engraving. Classification: Books|Prints",
+   "Title: Stucco Fragment. Medium: Stucco; carved. Classification: Stucco",
+   "Title: Seated Man with a Pitcher and a Glass. Culture: French. Medium: Brush and black ink with gray wash.. Classification: Drawings"
+  ],
+  "sims": [
+   0.6944288892653621,
+   0.5308213254007136,
+   0.5322387628446279
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "The Complaint and the Consolation; or, Night Thoughts",
+  "pitch": "From the night's musings in 1797 to its depiction in 8th-12th century stucco, and a 1756-1810 ink drawing, this exhibition delves into how night inspired artists across centuries. The Complaint and the Consolation; or, Night Thoughts brings 19th-century etching to life, while the stucco fragment and the seated man\u2019s night-time contemplation offer ancient and modern perspectives. Each piece captures the essence of night in its own distinct style.",
+  "link": "Despite their different eras and materials, these works explore the night in unique ways."
+ },
+ "dance|A_band": {
+  "seed": "dance",
+  "strategy": "A_band",
+  "idx": [
+   1715,
+   1635,
+   1721
+  ],
+  "ids": [
+   "400442",
+   "390671",
+   "401003"
+  ],
+  "texts": [
+   "Title: Dancing Figure. Medium: Etching. Classification: Prints",
+   "Title: Frets, from Chippendale Drawings, Vol. II. Medium: Black ink, gray wash. Classification: Drawings|Ornament & Architecture",
+   "Title: Plate 106: Peleus's Cattle, ad the Sea Wolf Turned to Marble (Psamantes Pelei, Thetidisq precibus expugnata lupum in saxum mutat), from Ovid's 'Metamorphoses'. Medium: Etching. Classification: Prints"
+  ],
+  "sims": [
+   0.746578221553388,
+   0.5556225916747677,
+   0.547431866021499
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 2,
+  "errors": [
+   "the link mentions 'prints', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Dancing Figure",
+  "pitch": "Explore the dynamic movements of dance through time with 'Dancing Figure' (1606) and 'Peleus's Cattle' (1606), both etchings. Contrast these with the ornate 'Frets' (1754), a black ink drawing. Each captures movement in its own unique way, from the fluid lines of dance to the intricate designs of ornamentation.",
+  "link": "These works contrast etchings with drawn ornaments, spanning centuries."
+ },
+ "dance|B_cluster": {
+  "seed": "dance",
+  "strategy": "B_cluster",
+  "idx": [
+   1715,
+   1736,
+   1737
+  ],
+  "ids": [
+   "400442",
+   "402686",
+   "402759"
+  ],
+  "texts": [
+   "Title: Dancing Figure. Medium: Etching. Classification: Prints",
+   "Title: Edward M. Daily, Pitcher, Philadelphia, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera",
+   "Title: James Francis \"Pud\" Galvin, Pitcher, Pittsburgh, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera"
+  ],
+  "sims": [
+   0.746578221553388,
+   0.47306038057723687,
+   0.4896206677133829
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 2,
+  "errors": [
+   "the pitch is cut off mid-sentence; rewrite it so it ends with a complete sentence."
+  ],
+  "title": "Dancing Figure",
+  "pitch": "Explore the fluidity of movement through 'Dancing Figure' and two dynamic pitcher photographs, showcasing the etching technique and early photographic albumen process, each capturing a fleeting moment of action. How do these different mediums convey the essence of motion? ",
+  "link": "These works contrast etching with albumen photographs, both capturing dynamic moments."
+ },
+ "dance|C_random": {
+  "seed": "dance",
+  "strategy": "C_random",
+  "idx": [
+   1715,
+   1614,
+   1700
+  ],
+  "ids": [
+   "400442",
+   "388153",
+   "399160"
+  ],
+  "texts": [
+   "Title: Dancing Figure. Medium: Etching. Classification: Prints",
+   "Title: Saints Stephen, Sixtus and Lawrence. Medium: Woodcut. Classification: Prints",
+   "Title: \"Tristram Shandy,\" Frontispiece, Volume 1,. Medium: Etching and engraving; first state of two. Classification: Prints"
+  ],
+  "sims": [
+   0.746578221553388,
+   0.5766970922925343,
+   0.5621400485714392
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] the link mentions 'prints', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the link mentions 'prints', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the link mentions 'prints', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Dancing Through Time",
+  "pitch": "Explore the expressive power of etching through 'Dancing Figure' and 'Tristram Shandy,' Frontispiece, Volume 1, both showcasing dynamic movement. Contrast this with the solemnity of 'Saints Stephen, Sixtus and Lawrence.' Each work captures dance in its unique way, inviting you to reflect on the fluidity of movement and its various interpretations. Dive into the exhibition to uncover the nuances of dance through time.",
+  "link": "The etching 'Dancing Figure' shares the medium of etching with 'Tristram Shandy,' Frontispiece, Volume 1, creating a connection through this precise printmaking technique. Both works explore dynamic movement, albeit in very different contexts. 'Dancing Figure' captures a single, fluid pose, while 'Tristram Shandy' presents a more static illustration. 'Saints Stephen, Sixtus and Lawrence' stands out as a stark contrast, depicting religious figures in a solemn woodcut. Together, these prints offer a unique exploration of dance and movement across time and purpose. By examining these works, visitors can delve deeper into the expressive potential of etching and the diverse ways it has been used to capture motion."
+ },
+ "fire|A_band": {
+  "seed": "fire",
+  "strategy": "A_band",
+  "idx": [
+   26,
+   2391,
+   1915
+  ],
+  "ids": [
+   "3638",
+   "571038",
+   "437609"
+  ],
+  "texts": [
+   "Title: Fire Plate. Culture: American. Medium: Iron",
+   "Title: Bracelet. Period: Predynastic Period. Medium: Shell",
+   "Title: The Holy Family with the Young Saint John the Baptist. Medium: Oil on wood. Classification: Paintings"
+  ],
+  "sims": [
+   0.6870545011376424,
+   0.499184336776867,
+   0.5152719978560709
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Fire Plate",
+  "pitch": "Explore the idea of fire through three distinct objects: an American iron plate from 1700-1800, a Predynastic shell bracelet, and a 16th-century oil painting. Each piece captures fire in its own material and context, from functional to decorative to spiritual.",
+  "link": "These objects, from different eras and cultures, all embody the concept of fire in unique ways."
+ },
+ "fire|B_cluster": {
+  "seed": "fire",
+  "strategy": "B_cluster",
+  "idx": [
+   26,
+   1748,
+   1745
+  ],
+  "ids": [
+   "3638",
+   "404490",
+   "403700"
+  ],
+  "texts": [
+   "Title: Fire Plate. Culture: American. Medium: Iron",
+   "Title: James F. \"Jimmy\" Macullar, Shortstop, Des Moines Prohibitionists, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera",
+   "Title: Duke Jantzen, Catcher, Minneapolis, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera"
+  ],
+  "sims": [
+   0.6870545011376424,
+   0.48212102896204734,
+   0.483606359592634
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] evidence phrase 3 ('1888') is not copied exactly from Object 3's description.",
+   "[v3] evidence phrase 2 ('Iron') is not copied exactly from Object 2's description.",
+   "[v3] the link mentions 'iron', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Fire and Flame: American Iron and Photographic Ephemera",
+  "pitch": "The Fire Plate, an iron object from 1700-1800, contrasts with the photographic ephemera from the late 19th century, both capturing the essence of fire. The Fire Plate's robust iron, forged to withstand intense heat, exemplifies early American craftsmanship. Meanwhile, the Old Judge series photographs, depicting baseball players in dynamic poses, show fire as a metaphor for the passionate spirit of the game. Together, these objects illuminate how fire has inspired diverse expressions of American culture, from industrial strength to the fervor of sports. Fire, both literal and metaphorical, fuels the spirit of American innovation and passion.",
+  "link": "The Fire Plate, an iron object from 1700-1800, contrasts with the photographic ephemera from the late 19th century, both capturing the essence of fire. The Fire Plate's robust iron, forged to withstand intense heat, exemplifies early American craftsmanship. Meanwhile, the Old Judge series photographs, depicting baseball players in dynamic poses, show fire as a metaphor for the passionate spirit of the game. Together, these objects illuminate how fire has inspired diverse expressions of American culture, from industrial strength to the fervor of sports. Fire, both literal and metaphorical, fuels the spirit of American innovation and passion."
+ },
+ "fire|C_random": {
+  "seed": "fire",
+  "strategy": "C_random",
+  "idx": [
+   26,
+   2535,
+   2222
+  ],
+  "ids": [
+   "3638",
+   "678315",
+   "479094"
+  ],
+  "texts": [
+   "Title: Fire Plate. Culture: American. Medium: Iron",
+   "Title: Terracotta fragments of kylikes (drinking cups). Culture: Greek, Attic. Period: Archaic/Classical. Medium: Terracotta. Classification: Vases",
+   "Title: Bottom and Foot of a Vessel. Culture: Coptic. Medium: Glass. Classification: Glass-Vessels"
+  ],
+  "sims": [
+   0.6870545011376424,
+   0.5540138320752549,
+   0.5834310814467039
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Fire Plate",
+  "pitch": "Explore how fire shapes cultures and creativity. The Fire Plate, an American iron artifact, reflects industrial innovation. Contrast it with ancient Greek kylikes, where fire forges beauty in terracotta. Finally, see the Coptic vessel\u2019s glassy transformation, both mediums capturing fire\u2019s enduring power in unique ways.",
+  "link": "These objects span centuries and continents but share one elemental theme: fire."
+ },
+ "bird|A_band": {
+  "seed": "bird",
+  "strategy": "A_band",
+  "idx": [
+   1162,
+   809,
+   2564
+  ],
+  "ids": [
+   "315420",
+   "230234",
+   "683940"
+  ],
+  "texts": [
+   "Title: Bird Plaque Ornament. Culture: Vic\u00fas. Medium: Copper, gilt. Classification: Metal-Ornaments",
+   "Title: Fragment. Culture: Italian. Medium: Silk, metal thread. Classification: Textiles-Woven",
+   "Title: Design for a Sword Hilt. Medium: engraving. Classification: Prints|Ornament & Architecture"
+  ],
+  "sims": [
+   0.6884330290316533,
+   0.4877099606312381,
+   0.48556512102149313
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 3,
+  "errors": [
+   "the pitch/link names ['Europe', 'Renaissance'], which appear in no description. Remove anything not in the descriptions.",
+   "evidence phrase 2 ('Copper, gilt') is not copied exactly from Object 2's description."
+  ],
+  "title": "Bird Plaque Ornament",
+  "pitch": "Explore the art of representing birds through time and medium. The Bird Plaque Ornament and Fragment showcase intricate bird motifs\u2014Vic\u00fas\u2019s copper, gilt craftsmanship versus Italian silk and metal thread. Both reveal the enduring allure of birds in art across centuries and cultures.",
+  "link": "A 3rd-century BCE Vic\u00fas bird ornament contrasts with a late-16th-century Italian textile fragment, both focusing on intricate bird motifs."
+ },
+ "bird|B_cluster": {
+  "seed": "bird",
+  "strategy": "B_cluster",
+  "idx": [
+   1162,
+   705,
+   777
+  ],
+  "ids": [
+   "315420",
+   "214876",
+   "227323"
+  ],
+  "texts": [
+   "Title: Bird Plaque Ornament. Culture: Vic\u00fas. Medium: Copper, gilt. Classification: Metal-Ornaments",
+   "Title: Insertion. Culture: Italian. Medium: Bobbin lace. Classification: Textiles-Laces",
+   "Title: Flounce. Culture: Flemish. Medium: Bobbin lace. Classification: Textiles-Laces"
+  ],
+  "sims": [
+   0.6884330290316533,
+   0.43108358061319607,
+   0.5055132397360671
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 2,
+  "errors": [
+   "the link mentions 'Copper', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Bird Plaque Ornament",
+  "pitch": "Explore the shared theme of birds through distinct mediums. The Vic\u00fas Bird Plaque Ornament showcases copper and gilt craftsmanship from the ancient Americas. Contrast this with the delicate bobbin lace of 18th-century European Insertion and early 18th-century Flemish Flounce. Each piece highlights the artistry in representing avian forms across cultures and eras.",
+  "link": "Despite different materials, both objects feature intricate bird motifs."
+ },
+ "bird|C_random": {
+  "seed": "bird",
+  "strategy": "C_random",
+  "idx": [
+   1162,
+   1198,
+   2680
+  ],
+  "ids": [
+   "315420",
+   "321509",
+   "713505"
+  ],
+  "texts": [
+   "Title: Bird Plaque Ornament. Culture: Vic\u00fas. Medium: Copper, gilt. Classification: Metal-Ornaments",
+   "Title: Weight. Medium: Hematite. Classification: Stone-Implements",
+   "Title: Terracotta rim fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Late Archaic/Early Classical. Medium: Terracotta. Classification: Vases"
+  ],
+  "sims": [
+   0.6884330290316533,
+   0.5228104201302674,
+   0.5152362502251877
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Evidence 1: Bird Plaque Ornament",
+  "pitch": "Explore how birds were revered in ancient times. From the Vic\u00fas plaque\u2019s intricate copper bird to the hematite weight and Attic kylix\u2019s ornate rim, birds symbolized power and elegance across cultures. Each piece tells a story of the bird\u2019s significance.",
+  "link": "These objects, though from different eras and cultures, all feature birds."
+ },
+ "journey|A_band": {
+  "seed": "journey",
+  "strategy": "A_band",
+  "idx": [
+   2927,
+   1275,
+   2091
+  ],
+  "ids": [
+   "789517",
+   "327754",
+   "460846"
+  ],
+  "texts": [
+   "Title: Going, A-Going. Medium: Hand-colored etching. Classification: Prints",
+   "Title: Cylinder seal. Period: Old Syrian. Medium: Hematite. Classification: Stone-Cylinder Seals",
+   "Title: Medal:  Leonello d'Este. Medium: Yellowish copper alloy with dark brown patina.. Classification: Medals"
+  ],
+  "sims": [
+   0.5758045040750492,
+   0.45209907168568686,
+   0.4510284395748805
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] the pitch/link names ['Italian', 'Mesopotamia', 'Renaissance'], which appear in no description. Remove anything not in the descriptions.",
+   "[v3] the pitch/link names ['Renaissance'], which appear in no description. Remove anything not in the descriptions.",
+   "[v3] the link mentions 'etching', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Going, A-Going: A Journey Through Time",
+  "pitch": "From the 18th-century etching 'Going, A-Going' to the 3,000-year-old cylinder seal and a 15th-century medal of Leonello d'Este, this exhibition traces the concept of journey across time and culture. Each object offers a unique perspective on movement and change, inviting you to reflect on your own travels and experiences. Explore how these diverse artworks capture the essence of journey in their distinct ways, from the transient to the timeless. In doing so, discover the universal human experience of moving through life's landscapes.",
+  "link": "All three objects explore the concept of journey, albeit in vastly different ways. Going, A-Going uses etching to depict a fleeting moment of travel, while the Old Syrian cylinder seal captures a journey through ancient Near Eastern iconography, and the medal of Leonello d'Este symbolizes a personal voyage through his life and achievements."
+ },
+ "journey|B_cluster": {
+  "seed": "journey",
+  "strategy": "B_cluster",
+  "idx": [
+   2927,
+   2604,
+   2678
+  ],
+  "ids": [
+   "789517",
+   "695986",
+   "713393"
+  ],
+  "texts": [
+   "Title: Going, A-Going. Medium: Hand-colored etching. Classification: Prints",
+   "Title: Terracotta fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Late Archaic/Early Classical. Medium: Terracotta. Classification: Vases",
+   "Title: Terracotta rim fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Late Archaic/Early Classical. Medium: Terracotta. Classification: Vases"
+  ],
+  "sims": [
+   0.5758045040750492,
+   0.46034748236815043,
+   0.46635971761169837
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Going, A-Going",
+  "pitch": "Explore the journey of time through 'Going, A-Going,' a 1785 etching, and fragments of ancient Greek kylixes from 490\u2013470 BCE. Each piece traces a distinct path\u2014of artistry and history.",
+  "link": "These works, from different eras, all capture the journey of time and transformation."
+ },
+ "journey|C_random": {
+  "seed": "journey",
+  "strategy": "C_random",
+  "idx": [
+   2927,
+   1260,
+   1765
+  ],
+  "ids": [
+   "789517",
+   "326508",
+   "407576"
+  ],
+  "texts": [
+   "Title: Going, A-Going. Medium: Hand-colored etching. Classification: Prints",
+   "Title: Compartmented stamp seal. Culture: Bactria-Margiana Archaeological Complex. Period: Bronze Age. Medium: Copper alloy. Classification: Metalwork-Stamp Seals",
+   "Title: Tennessee, from Flags of the States and Territories (N11) for Allen & Ginter Cigarettes Brands. Medium: Commercial color lithograph. Classification: Prints|Ephemera"
+  ],
+  "sims": [
+   0.5758045040750492,
+   0.48408800977290317,
+   0.46115772368391383
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 2,
+  "errors": [
+   "the link mentions 'prints', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Going, A-Going.",
+  "pitch": "Explore the journey through time and medium with 'Going, A-Going' (1785, reissued 1802), a hand-colored etching; a Bactria-Margiana Archaeological Complex compartmented stamp seal (late 3rd\u2013early 2nd millennium BCE); and 'Tennessee' (1888), a commercial color lithograph. Each offers a unique journey in art and history.",
+  "link": "These works contrast etchings and lithographs with metalwork."
+ },
+ "feast|A_band": {
+  "seed": "feast",
+  "strategy": "A_band",
+  "idx": [
+   577,
+   1051,
+   2548
+  ],
+  "ids": [
+   "200781",
+   "268317",
+   "681435"
+  ],
+  "texts": [
+   "Title: Sugar bowl and tray. Culture: French, Marseilles. Medium: Faience (tin-glazed earthenware). Classification: Ceramics-Pottery",
+   "Title: Daniel Webster. Medium: Daguerreotype. Classification: Photographs",
+   "Title: Page from Eyn Newe kunstlich moetdelboech alle kunst (Page 2r). Medium: Woodcut. Classification: Books|Prints|Ornament & Architecture"
+  ],
+  "sims": [
+   0.6149730661419879,
+   0.47473556524189653,
+   0.4660167798978928
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 3,
+  "errors": [
+   "the pitch/link names ['American', 'German'], which appear in no description. Remove anything not in the descriptions.",
+   "evidence phrase 2 ('Faience (tin-glazed earthenware)') is not copied exactly from Object 2's description."
+  ],
+  "title": "Sugar bowl and tray",
+  "pitch": "Explore the opulence of a 18th-century French table with the Sugar bowl and tray, then contrast it with the stark realism of an 1850s daguerreotype of a statesman, and a 16th-century woodcut depicting a feast. Each object captures a moment of communal celebration, offering a vivid journey through time and culture.",
+  "link": "These objects contrast in medium and era, yet all relate to feasts."
+ },
+ "feast|B_cluster": {
+  "seed": "feast",
+  "strategy": "B_cluster",
+  "idx": [
+   577,
+   1727,
+   1749
+  ],
+  "ids": [
+   "200781",
+   "401527",
+   "404601"
+  ],
+  "texts": [
+   "Title: Sugar bowl and tray. Culture: French, Marseilles. Medium: Faience (tin-glazed earthenware). Classification: Ceramics-Pottery",
+   "Title: Baldwin, Pitcher, Chicago, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera",
+   "Title: Al C. Hungler, Pitcher, Sioux City Corn Huskers, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera"
+  ],
+  "sims": [
+   0.6149730661419879,
+   0.49377722331410734,
+   0.5026370120936751
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Sugar bowl and tray.",
+  "pitch": "The sugar bowl and tray from 18th-century Marseilles offer a refined setting for a feast, while the Old Judge cigarette photographs from 1887 and 1889 capture the social gatherings of the late 19th century, featuring elaborate pitchers. Each piece celebrates the communal joy of sharing a meal, whether through elegant ceramics or engaging imagery.",
+  "link": "These objects contrast in material and technique, yet both evoke the spirit of a feast."
+ },
+ "feast|C_random": {
+  "seed": "feast",
+  "strategy": "C_random",
+  "idx": [
+   577,
+   840,
+   2675
+  ],
+  "ids": [
+   "200781",
+   "240063",
+   "711756"
+  ],
+  "texts": [
+   "Title: Sugar bowl and tray. Culture: French, Marseilles. Medium: Faience (tin-glazed earthenware). Classification: Ceramics-Pottery",
+   "Title: Strainer. Culture: Cypriot. Period: Cypro-Geometric I ?. Medium: Terracotta. Classification: Vases",
+   "Title: A Short History of Admiral Farragut, from the Histories of Generals series (N114) issued by W. Duke, Sons & Co. to promote Honest Long Cut Smoking and Chewing Tobacco. Medium: Commercial color lithograph. Classification: Prints|Ephemera"
+  ],
+  "sims": [
+   0.6149730661419879,
+   0.5154460710641071,
+   0.4632231612186696
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 2,
+  "errors": [
+   "the link mentions 'ceramics', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Sugar bowl and tray.",
+  "pitch": "Explore the evolution of feastware from a 1760 French sugar bowl to a 1050 BCE Cypriot strainer, then a 1888 tobacco advertisement. Each adds a layer to the celebration of communal dining.",
+  "link": "Different materials but a shared function in ancient and modern feasts."
+ },
+ "portrait|A_band": {
+  "seed": "portrait",
+  "strategy": "A_band",
+  "idx": [
+   1914,
+   2233,
+   607
+  ],
+  "ids": [
+   "437599",
+   "500926",
+   "203259"
+  ],
+  "texts": [
+   "Title: Portrait of a Man. Medium: Ivory. Classification: Miniatures",
+   "Title: Saw Duang. Culture: Thai. Medium: Wood, bone, ivory,  metal. Classification: Chordophone-Lute-bowed-unfretted",
+   "Title: Acrobats. Culture: Italian, Naples. Medium: Creamware. Classification: Ceramics-Pottery"
+  ],
+  "sims": [
+   0.7789548481893807,
+   0.5549408375790646,
+   0.551950732216018
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Portrait of a Man",
+  "pitch": "Explore the art of human representation through contrasting media. 'Portrait of a Man' in ivory, 'Saw Duang' with intricate wood and ivory, and 'Acrobats' in creamy ceramics each offer unique insights into human expression. Discover how different materials reveal varied perspectives on the human figure.",
+  "link": "Though differing in medium, all three objects capture human form."
+ },
+ "portrait|B_cluster": {
+  "seed": "portrait",
+  "strategy": "B_cluster",
+  "idx": [
+   1914,
+   2774,
+   2577
+  ],
+  "ids": [
+   "437599",
+   "737516",
+   "689444"
+  ],
+  "texts": [
+   "Title: Portrait of a Man. Medium: Ivory. Classification: Miniatures",
+   "Title: Terracotta rim fragment of a skyphos (deep drinking cup). Culture: Greek, Attic. Period: Classical. Medium: Terracotta. Classification: Vases",
+   "Title: Terracotta fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Archaic. Medium: Terracotta. Classification: Vases"
+  ],
+  "sims": [
+   0.7789548481893807,
+   0.5847182693371619,
+   0.578151345957123
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Portrait of a Man",
+  "pitch": "Explore the human form through time with three distinctive works. The Portrait of a Man (Ivory, 16th century) captures a man's essence, while the terracotta fragments (5th and 6th century BCE) from Greek vases reveal the artistry of ancient drinking vessels. Each piece illuminates a unique era and technique, showcasing the enduring human figure in art.",
+  "link": "While the objects differ in material and era, each offers a glimpse into ancient craftsmanship."
+ },
+ "portrait|C_random": {
+  "seed": "portrait",
+  "strategy": "C_random",
+  "idx": [
+   1914,
+   2343,
+   903
+  ],
+  "ids": [
+   "437599",
+   "557713",
+   "244900"
+  ],
+  "texts": [
+   "Title: Portrait of a Man. Medium: Ivory. Classification: Miniatures",
+   "Title: New Year Gift: Incense Spoon. Period: Twentieth Century; original New Kingdom. Medium: Tempera on paper",
+   "Title: Banded agate ring stone. Culture: Italic. Period: Hellenistic. Medium: Agate, banded. Classification: Gems"
+  ],
+  "sims": [
+   0.7789548481893807,
+   0.5410867411434885,
+   0.5496793551924393
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Portrait of a Man",
+  "pitch": "Explore the human form through time with these portraits. The 'Portrait of a Man' in ivory captures a serene 16th-century European elegance, while the New Year Gift: Incense Spoon, originally a 14th-century Egyptian masterpiece, subtly alludes to a man through its form. The Banded agate ring, a Hellenistic gem, adds a playful twist. Each piece offers a unique lens on the human figure, from delicate ivory to vibrant tempera and intricate agate.",
+  "link": "These portraits, crafted from ivory and tempera, contrast with the agate ring, showcasing diverse materials and techniques."
+ },
+ "garden|A_band": {
+  "seed": "garden",
+  "strategy": "A_band",
+  "idx": [
+   1527,
+   2132,
+   904
+  ],
+  "ids": [
+   "375883",
+   "465485",
+   "245305"
+  ],
+  "texts": [
+   "Title: Fan with figures in a garden. Medium: Etching; reverse copy. Classification: Prints",
+   "Title: Elongated Buckle. Culture: Langobardic or Frankish. Medium: Copper alloy. Classification: Metalwork-Copper",
+   "Title: Glass finger ring. Culture: Roman. Period: Imperial. Medium: Glass. Classification: Glass"
+  ],
+  "sims": [
+   0.7289915674374443,
+   0.5132911606974644,
+   0.5090824043806668
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Fan with figures in a garden",
+  "pitch": "Explore the garden through time with a 16th-century etching of idyllic scenes, a 7th-century buckled decoration inspired by nature, and an ancient Roman glass ring with intricate botanical details. Each piece captures the beauty and tranquility of a garden in its own unique way.",
+  "link": "These objects, despite their differences in material and culture, all feature elements of the natural world."
+ },
+ "garden|B_cluster": {
+  "seed": "garden",
+  "strategy": "B_cluster",
+  "idx": [
+   1527,
+   2473,
+   2433
+  ],
+  "ids": [
+   "375883",
+   "657445",
+   "644872"
+  ],
+  "texts": [
+   "Title: Fan with figures in a garden. Medium: Etching; reverse copy. Classification: Prints",
+   "Title: Mlle. Waldro, from the Actresses series (N245) issued by Kinney Brothers to promote Sweet Caporal Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera",
+   "Title: Card Number 12, Minnie Dupree, from the Actors and Actresses series (N145-2) issued by Duke Sons & Co. to promote Cross Cut Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera"
+  ],
+  "sims": [
+   0.7289915674374443,
+   0.4701110957716662,
+   0.46733190761879245
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "375883",
+  "pitch": "Explore the tranquility of a garden through an 18th-century etching and two 19th-century photographs. The fan with figures in a garden brings life to a scene with intricate etching, while the photographs capture fleeting moments of beauty. Each medium offers a unique perspective on nature\u2019s allure.",
+  "link": "The fan and photographs both evoke serene garden scenes, but through vastly different media."
+ },
+ "garden|C_random": {
+  "seed": "garden",
+  "strategy": "C_random",
+  "idx": [
+   1527,
+   2313,
+   1098
+  ],
+  "ids": [
+   "375883",
+   "551219",
+   "291390"
+  ],
+  "texts": [
+   "Title: Fan with figures in a garden. Medium: Etching; reverse copy. Classification: Prints",
+   "Title: Cowroid Seal with Was inscription. Period: New Kingdom. Medium: Faience",
+   "Title: Kirkstall Abbey.  From the West. Medium: Albumen silver print. Classification: Photographs"
+  ],
+  "sims": [
+   0.7289915674374443,
+   0.505172381556667,
+   0.547398739450615
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] the link mentions 'photograph', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the pitch is 193 words; it must be at most 100. Shorten it.",
+   "[v3] the pitch/link names ['Victorian'], which appear in no description. Remove anything not in the descriptions."
+  ],
+  "title": "Exploring the Garden Through Time",
+  "pitch": "The fan and cowroid seal both feature gardens, albeit in very different ways. The fan etching captures the lush, serene beauty of a garden through 18th-century European printmaking, while the cowroid seal hints at the garden as a place of ritual and divinity in ancient Egypt. Kirkstall Abbey\u2019s photograph offers a modern, architectural view of a garden. Together, they illustrate the timeless allure of gardens across cultures and epochs.",
+  "link": "The fan and the cowroid seal both feature gardens, albeit in very different ways. The fan etching captures the lush, serene beauty of a garden through 18th-century European printmaking, while the cowroid seal with its New Kingdom Egyptian Was symbol hints at the garden as a place of ritual and divinity. Kirkstall Abbey's photograph offers a modern, architectural view of a garden. Together, they illustrate the timeless allure of gardens across cultures and epochs."
+ },
+ "exile|A_band": {
+  "seed": "exile",
+  "strategy": "A_band",
+  "idx": [
+   1576,
+   1671,
+   60
+  ],
+  "ids": [
+   "383051",
+   "394818",
+   "6004"
+  ],
+  "texts": [
+   "Title: The Descent of Christ Into Limbo. Medium: Engraving; first state of two. Classification: Prints",
+   "Title: Five Designs for Decorated Plates. Medium: Pen and ink, watercolor. Classification: Drawings|Ornament & Architecture",
+   "Title: Plate. Culture: American. Medium: Earthenware; Redware"
+  ],
+  "sims": [
+   0.5834389607672702,
+   0.4632561906394097,
+   0.4753281059373873
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "The Descent of Christ Into Limbo",
+  "pitch": "From the eternal realms of an engraving depicting Christ\u2019s descent into Limbo to ornamental designs for plates and utilitarian earthenware, this exhibition traces the journey of exiles\u2014both literal and metaphorical. Each piece captures moments of transition, whether spiritual or physical, offering a profound insight into the human condition.",
+  "link": "These objects, spanning centuries, explore themes of transition and displacement."
+ },
+ "exile|B_cluster": {
+  "seed": "exile",
+  "strategy": "B_cluster",
+  "idx": [
+   1576,
+   1943,
+   722
+  ],
+  "ids": [
+   "383051",
+   "444098",
+   "219606"
+  ],
+  "texts": [
+   "Title: The Descent of Christ Into Limbo. Medium: Engraving; first state of two. Classification: Prints",
+   "Title: Textile Fragment. Medium: Wool, linen; plain weave, tapestry weave. Classification: Textiles",
+   "Title: Piece. Culture: Italian. Medium: Silk. Classification: Textiles-Woven"
+  ],
+  "sims": [
+   0.5834389607672702,
+   0.46090514248560727,
+   0.4238105883698229
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "The Descent of Christ Into Limbo",
+  "pitch": "Examine the profound themes of exile and otherworldly journeys in these works. The Descent of Christ Into Limbo envisions spiritual exile, while the 4th-century textile fragment and the 17th-century silk piece depict earthly wanderings, each offering unique insights into human experience.",
+  "link": "A stark contrast in materials\u2014metal engraving from the 16th century versus ancient wool and linen tapestry\u2014both explore themes of otherworldly journeys."
+ },
+ "exile|C_random": {
+  "seed": "exile",
+  "strategy": "C_random",
+  "idx": [
+   1576,
+   2082,
+   107
+  ],
+  "ids": [
+   "383051",
+   "459699",
+   "11655"
+  ],
+  "texts": [
+   "Title: The Descent of Christ Into Limbo. Medium: Engraving; first state of two. Classification: Prints",
+   "Title: Caricature of a Man Carrying a Stick, Standing in Profile to the Left. Medium: Pen and black ink, gray wash. Classification: Drawings",
+   "Title: Hagar and Ishmael. Culture: American. Medium: Oil on canvas"
+  ],
+  "sims": [
+   0.5834389607672702,
+   0.4702185120801652,
+   0.498903134883099
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 3,
+  "errors": [
+   "the link mentions 'drawing', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "the pitch is 142 words; it must be at most 100. Shorten it."
+  ],
+  "title": "The Descent of Christ Into Limbo",
+  "pitch": "Explore themes of separation with 'The Descent of Christ Into Limbo', an engraving depicting divine exile, contrasted with a pen and ink drawing of a man, and an oil painting of Hagar and Ishmael, highlighting varied expressions of displacement.",
+  "link": "Different media explore themes of separation."
+ },
+ "power|A_band": {
+  "seed": "power",
+  "strategy": "A_band",
+  "idx": [
+   1192,
+   763,
+   661
+  ],
+  "ids": [
+   "320053",
+   "224940",
+   "208989"
+  ],
+  "texts": [
+   "Title: Mangaaka Power Figure (Nkisi N\u2019Kondi). Culture: Kongo. Medium: Wood, iron, resin, ceramic, plant fiber, textile, pigment. Classification: Wood-Sculpture",
+   "Title: Fringe. Culture: Italian. Classification: Textiles-Trimmings",
+   "Title: Tankard with cover. Culture: German, Erfurt. Medium: Silver gilt, glass. Classification: Metalwork-Silver In Combination"
+  ],
+  "sims": [
+   0.6401016306713462,
+   0.48866059926902994,
+   0.48732929509529005
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Mangaaka Power Figure (Nkisi N'Kondi)",
+  "pitch": "Explore how power is embodied in different forms: the Mangaaka Power Figure (Nkisi N'Kondi) from the Kongo culture, the Fringe as a symbol of status, and the Tankard with cover as a practical yet prestigious vessel. Each object reveals a distinct aspect of wielding and displaying power.",
+  "link": "While the Mangaaka Power Figure (Nkisi N'Kondi) harnesses the essence of power through intricate materials, the Fringe and the Tankard with cover showcase power in fashion and utility, each adding their own unique weight and significance."
+ },
+ "power|B_cluster": {
+  "seed": "power",
+  "strategy": "B_cluster",
+  "idx": [
+   1192,
+   704,
+   701
+  ],
+  "ids": [
+   "320053",
+   "214832",
+   "214123"
+  ],
+  "texts": [
+   "Title: Mangaaka Power Figure (Nkisi N\u2019Kondi). Culture: Kongo. Medium: Wood, iron, resin, ceramic, plant fiber, textile, pigment. Classification: Wood-Sculpture",
+   "Title: Fragment. Culture: Italian. Medium: Needle lace. Classification: Textiles-Laces",
+   "Title: Piece. Culture: French. Medium: Bobbin lace. Classification: Textiles-Laces"
+  ],
+  "sims": [
+   0.6401016306713462,
+   0.48132683970287393,
+   0.4746537128020587
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 2,
+  "errors": [
+   "the link mentions 'lace', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Mangaaka Power Figure (Nkisi N'Kondi)",
+  "pitch": "Explore how power is conveyed through distinct materials. The Mangaaka Power Figure (Nkisi N'Kondi) showcases Kongo culture\u2019s use of wood and metal. Contrast this with the intricate needle lace of the 17th century and the delicate bobbin lace from the 18th century, both from European traditions. Each object embodies a unique form of power through its material and technique.",
+  "link": "Different materials\u2014wood and metal versus lace\u2014highlight various forms of power expression."
+ },
+ "power|C_random": {
+  "seed": "power",
+  "strategy": "C_random",
+  "idx": [
+   1192,
+   1147,
+   990
+  ],
+  "ids": [
+   "320053",
+   "312668",
+   "254502"
+  ],
+  "texts": [
+   "Title: Mangaaka Power Figure (Nkisi N\u2019Kondi). Culture: Kongo. Medium: Wood, iron, resin, ceramic, plant fiber, textile, pigment. Classification: Wood-Sculpture",
+   "Title: Bag. Culture: Nasca. Medium: Cotton, camelid hair. Classification: Textiles-Woven",
+   "Title: Bronze statue of Eros sleeping. Culture: Greek. Period: Hellenistic period. Medium: Bronze. Classification: Bronzes"
+  ],
+  "sims": [
+   0.6401016306713462,
+   0.5059662193351679,
+   0.5104578673844665
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Mangaaka Power Figure (Nkisi N'Kondi)",
+  "pitch": "Explore the Kongo's Mangaaka Power Figure, a guardian of secrets; a Nasca textile that wove power into daily life; and a Hellenistic statue where love itself is depicted in power\u2019s sleep. Each object channels power differently, from spiritual to social to timeless.",
+  "link": "These objects, though from different cultures and eras, all embody power in unique ways."
+ },
+ "luck|A_band": {
+  "seed": "luck",
+  "strategy": "A_band",
+  "idx": [
+   2850,
+   943,
+   335
+  ],
+  "ids": [
+   "760624",
+   "248655",
+   "90931"
+  ],
+  "texts": [
+   "Title: The new lottery game for children. Medium: Wood engraving. Classification: Prints",
+   "Title: Bronze shield boss. Culture: Etruscan or Italic. Period: Archaic. Medium: Bronze. Classification: Bronzes",
+   "Title: Vest. Culture: French. Medium: silk, cotton"
+  ],
+  "sims": [
+   0.6019802305717354,
+   0.47737828397253945,
+   0.4767543057961863
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "The new lottery game for children",
+  "pitch": "From a 19th-century lottery game meant to bring good fortune to children, to an ancient Etruscan shield boss symbolizing protection, and a luxurious 19th-century French vest, each piece offers a unique perspective on luck. The wood engraving captures the whimsy of chance, the bronze shield boss the seriousness of safeguarding, and the silk vest the opulence of aspiration. Through these diverse objects, we explore the universal human quest for fortune.",
+  "link": "These objects, from different eras and cultures, explore themes of fortune and chance."
+ },
+ "luck|B_cluster": {
+  "seed": "luck",
+  "strategy": "B_cluster",
+  "idx": [
+   2850,
+   819,
+   750
+  ],
+  "ids": [
+   "760624",
+   "230807",
+   "223358"
+  ],
+  "texts": [
+   "Title: The new lottery game for children. Medium: Wood engraving. Classification: Prints",
+   "Title: Fragment. Culture: French. Classification: Textiles-Woven",
+   "Title: Piece. Culture: French. Medium: Silk and metal thread. Classification: Textiles-Woven"
+  ],
+  "sims": [
+   0.6019802305717354,
+   0.4761998053254443,
+   0.4658288648361335
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "The New Lottery Game for Children",
+  "pitch": "Discover how luck is depicted through time and medium. The 1866 wood engraving, 'The New Lottery Game for Children,' captures the excitement of chance. Nearby, 'Fragment' and 'Piece,' 18th-century textiles, showcase intricate designs that hint at fortune's capricious nature. Each piece offers a unique perspective on the unpredictable nature of luck.",
+  "link": "These works, from different media and eras, all explore themes of chance and fortune."
+ },
+ "luck|C_random": {
+  "seed": "luck",
+  "strategy": "C_random",
+  "idx": [
+   2850,
+   1511,
+   482
+  ],
+  "ids": [
+   "760624",
+   "372525",
+   "190804"
+  ],
+  "texts": [
+   "Title: The new lottery game for children. Medium: Wood engraving. Classification: Prints",
+   "Title: Millbank. Medium: Etching and drypoint, printed in black ink on ivory laid Japan; fifth state of five. Classification: Prints",
+   "Title: Flagon. Culture: Swiss, Wallis canton. Medium: Pewter. Classification: Metalwork-Pewter"
+  ],
+  "sims": [
+   0.6019802305717354,
+   0.5178783665960944,
+   0.5065301660352419
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 5,
+  "errors": [
+   "[v3] the link mentions 'prints', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the pitch/link names ['Switzerland'], which appear in no description. Remove anything not in the descriptions.",
+   "[v3] the link mentions 'prints', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v2] the pitch text must not contain IDs or the word object_ids (found [760624, 190804, 372525]); put IDs only in object_ids."
+  ],
+  "title": "The Luck of Numbers and Metal",
+  "pitch": "These prints and metalwork explore the concept of luck through diverse mediums. The wood engraving *The new lottery game for children* (1866) captures the excitement of chance, while the etching and drypoint *Millbank* (1861) offers a stark contrast with its industrial scene. The *Flagon* (18th century) from Wallis canton, Switzerland, highlights luck in everyday functionality. Together, they illustrate the varied ways luck manifests in our lives, from the whimsical to the practical. Luck, indeed, can be found in both the whimsical and the practical.",
+  "link": "These prints and metalwork highlight different interpretations of luck. The wood engraving, *The new lottery game for children* (1866), captures the thrill of chance in a playful format. In contrast, *Millbank* (1861) uses etching and drypoint to depict a somber, industrial scene. Meanwhile, the *Flagon* (18th century) from Wallis canton, Switzerland, embodies good fortune through its practical yet elegant design. Together, these objects explore the multifaceted nature of luck through time and medium. Luck, indeed, can be found in both the whimsical and the functional."
+ },
+ "wedding|A_band": {
+  "seed": "wedding",
+  "strategy": "A_band",
+  "idx": [
+   398,
+   2721,
+   1721
+  ],
+  "ids": [
+   "127539",
+   "721278",
+   "401003"
+  ],
+  "texts": [
+   "Title: Wedding ensemble. Culture: Spanish. Medium: linen",
+   "Title: Terracotta rim fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Archaic. Medium: Terracotta. Classification: Vases",
+   "Title: Plate 106: Peleus's Cattle, ad the Sea Wolf Turned to Marble (Psamantes Pelei, Thetidisq precibus expugnata lupum in saxum mutat), from Ovid's 'Metamorphoses'. Medium: Etching. Classification: Prints"
+  ],
+  "sims": [
+   0.7113409122269378,
+   0.5235748434410248,
+   0.5172542452274873
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 2,
+  "errors": [
+   "the link mentions 'print', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Wedding ensemble.",
+  "pitch": "Explore how linen, terracotta, and etching reflect diverse wedding traditions. From a 18th-century Spanish wedding ensemble to a Greek drinking cup and a 16th-century transformation scene, each object offers a unique glimpse into celebratory attire and customs across time.",
+  "link": "Different materials\u2014linen, terracotta, and etching\u2014span eras and cultures."
+ },
+ "wedding|B_cluster": {
+  "seed": "wedding",
+  "strategy": "B_cluster",
+  "idx": [
+   398,
+   1748,
+   1735
+  ],
+  "ids": [
+   "127539",
+   "404490",
+   "402420"
+  ],
+  "texts": [
+   "Title: Wedding ensemble. Culture: Spanish. Medium: linen",
+   "Title: James F. \"Jimmy\" Macullar, Shortstop, Des Moines Prohibitionists, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera",
+   "Title: Arthur \"Art\" Wilson Whitney, 3rd Base, New York, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera"
+  ],
+  "sims": [
+   0.7113409122269378,
+   0.4707147833695763,
+   0.48446500995346686
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Wedding Ensemble",
+  "pitch": "Explore the grandeur of 18th-century Spanish weddings with the elegant Wedding Ensemble, then step into the gritty world of 1880s baseball. The stark difference in materials and eras highlights the evolution of social norms and celebrations through time.",
+  "link": "A 18th-century Spanish wedding ensemble contrasts with 19th-century baseball photographs."
+ },
+ "wedding|C_random": {
+  "seed": "wedding",
+  "strategy": "C_random",
+  "idx": [
+   398,
+   2585,
+   1475
+  ],
+  "ids": [
+   "127539",
+   "691853",
+   "365527"
+  ],
+  "texts": [
+   "Title: Wedding ensemble. Culture: Spanish. Medium: linen",
+   "Title: Terracotta fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Classical. Medium: Terracotta. Classification: Vases",
+   "Title: Design for Wall Decoration with Doors on both Sides of a Tall and Narrow Frame. Medium: Graphite, brush and gray wash, with ruled construction. Classification: Drawings"
+  ],
+  "sims": [
+   0.7113409122269378,
+   0.5412042031603287,
+   0.5256243872799256
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 3,
+  "errors": [
+   "the link mentions 'pottery', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "the output was not valid JSON for the schema (OutputParserException)."
+  ],
+  "title": "Wedding Ensemble, Ancient Drinking Cup, and Architectural Design",
+  "pitch": "Explore the essence of celebration through a 18th-century Spanish wedding ensemble, a 5th-century Greek kylix, and a 18th-century architectural design. Each piece, in its own way, reflects the joy and artistry of human gatherings. From formal attire to drinking vessels, and from grand interiors to subtle drawings, these works capture the spirit of celebration across time and culture.",
+  "link": "These objects span centuries and continents, yet each tells a story of celebration and design."
+ },
+ "hunting|A_band": {
+  "seed": "hunting",
+  "strategy": "A_band",
+  "idx": [
+   1305,
+   1899,
+   4
+  ],
+  "ids": [
+   "336198",
+   "435733",
+   "598"
+  ],
+  "texts": [
+   "Title: Hares Roasting the Hunter. Medium: Engraving. Classification: Prints|Ornament & Architecture",
+   "Title: Madonna and Child Enthroned with Saints and Angels. Medium: Tempera on wood. Classification: Paintings",
+   "Title: Bottle. Culture: American. Medium: Earthenware"
+  ],
+  "sims": [
+   0.6948686777829657,
+   0.48332152465466677,
+   0.4988834018892529
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 2,
+  "errors": [
+   "the link mentions 'prints', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Hares Roasting the Hunter",
+  "pitch": "Explore the diverse techniques of engraving, tempera on wood, and earthenware in 'Hares Roasting the Hunter,' 'Madonna and Child Enthroned with Saints and Angels,' and a bottle. Each piece offers a unique perspective on hunting themes through varied mediums and eras. This contrast highlights the versatility of artistic expression across different cultures and periods, from the 16th-century engraving to the 18th-century earthenware. Hunting is depicted in each, but the materials and techniques tell distinct stories.",
+  "link": "Both works use different materials\u2014engraving, tempera on wood, and earthenware\u2014creating distinct visual experiences."
+ },
+ "hunting|B_cluster": {
+  "seed": "hunting",
+  "strategy": "B_cluster",
+  "idx": [
+   1305,
+   2716,
+   901
+  ],
+  "ids": [
+   "336198",
+   "718962",
+   "244848"
+  ],
+  "texts": [
+   "Title: Hares Roasting the Hunter. Medium: Engraving. Classification: Prints|Ornament & Architecture",
+   "Title: Terracotta rim fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Classical. Medium: Terracotta. Classification: Vases",
+   "Title: Terracotta stemmed kyathos (single-handled cup). Culture: Etruscan. Period: Archaic. Medium: Terracotta. Classification: Vases"
+  ],
+  "sims": [
+   0.6948686777829657,
+   0.50601284608248,
+   0.5051745492709243
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Hares Roasting the Hunter",
+  "pitch": "Explore the art of hunting through time. 'Hares Roasting the Hunter' envisions a whimsical forest scene. Nearby, a Greek kylix fragment and an Etruscan kyathos show hunting vessels, each capturing the thrill of the chase in clay and line.",
+  "link": "These objects span millennia and media, yet all depict hunting in unique ways."
+ },
+ "hunting|C_random": {
+  "seed": "hunting",
+  "strategy": "C_random",
+  "idx": [
+   1305,
+   2093,
+   7
+  ],
+  "ids": [
+   "336198",
+   "460977",
+   "945"
+  ],
+  "texts": [
+   "Title: Hares Roasting the Hunter. Medium: Engraving. Classification: Prints|Ornament & Architecture",
+   "Title: Head of the Buddha. Culture: Thai. Medium: Copper alloy, some with traces of leaf gilding.. Classification: Metalwork",
+   "Title: Box. Culture: American. Medium: White oak, red oak, yellow pine"
+  ],
+  "sims": [
+   0.6948686777829657,
+   0.5063873897838392,
+   0.5642322858299762
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Hares Roasting the Hunter",
+  "pitch": "Explore how hunting is depicted in 'Hares Roasting the Hunter', an engraving, and contrast it with the Buddha's serene head and an American box from colonial times. Each object uniquely captures the essence of hunting through distinct materials and eras.",
+  "link": "Different materials tell the story of hunting."
+ },
+ "mask|A_band": {
+  "seed": "mask",
+  "strategy": "A_band",
+  "idx": [
+   212,
+   2537,
+   2035
+  ],
+  "ids": [
+   "31978",
+   "678496",
+   "452350"
+  ],
+  "texts": [
+   "Title: Mask for the Lower Face (Hanho-Ate). Culture: Japanese. Medium: Iron, lacquer, textile (silk). Classification: Armor Parts-Masks",
+   "Title: Terracotta fragments of kylikes (drinking cups). Culture: Greek, Attic. Period: Archaic/Classical. Medium: Terracotta. Classification: Vases",
+   "Title: Gaming or Chess Piece, Possibly a Pawn. Medium: Stone. Classification: Gaming pieces"
+  ],
+  "sims": [
+   0.7534862674267141,
+   0.5212453017292172,
+   0.5131414470147434
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] the link mentions 'iron', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] evidence phrase 2 ('Iron, lacquer, textile (silk)') is not copied exactly from Object 2's description.",
+   "[v3] the pitch/link names ['Greece'], which appear in no description. Remove anything not in the descriptions."
+  ],
+  "title": "Masks and More: Exploring the Diverse Roles of Face Coverings",
+  "pitch": "Explore the multifaceted role of masks through three distinct objects. The Japanese Mask for the Lower Face (Hanho-Ate) from the late 18th to early 19th century protects and transforms the face in martial arts. Contrast this with ancient Greek Terracotta fragments of kylikes, decorative drinking cups from the 5th century BCE, and a 8th to 11th-century gaming piece. Each object, though different, highlights the universal human fascination with face coverings, whether for protection, celebration, or play.",
+  "link": "Iron and stone: materials that serve distinct yet shared purposes in cultural expression."
+ },
+ "mask|B_cluster": {
+  "seed": "mask",
+  "strategy": "B_cluster",
+  "idx": [
+   212,
+   2832,
+   2710
+  ],
+  "ids": [
+   "31978",
+   "753506",
+   "718599"
+  ],
+  "texts": [
+   "Title: Mask for the Lower Face (Hanho-Ate). Culture: Japanese. Medium: Iron, lacquer, textile (silk). Classification: Armor Parts-Masks",
+   "Title: Terracotta fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Archaic. Medium: Terracotta. Classification: Vases",
+   "Title: Terracotta rim fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Classical. Medium: Terracotta. Classification: Vases"
+  ],
+  "sims": [
+   0.7534862674267141,
+   0.5471031514845817,
+   0.5229594757154524
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 3,
+  "errors": [
+   "the pitch/link names ['Greece'], which appear in no description. Remove anything not in the descriptions.",
+   "the pitch/link names ['Greece', 'Japan'], which appear in no description. Remove anything not in the descriptions."
+  ],
+  "title": "Mask for the Lower Face (Hanho-Ate)",
+  "pitch": "Explore the art of masking across time and space. The Japanese iron mask and two ancient Greek terracotta fragments, each serve unique ritual or decorative purposes, highlighting the versatility of their respective cultures in crafting protective and symbolic objects.",
+  "link": "These objects, from different eras and cultures, showcase diverse techniques in mask and vessel making."
+ },
+ "mask|C_random": {
+  "seed": "mask",
+  "strategy": "C_random",
+  "idx": [
+   212,
+   2555,
+   1998
+  ],
+  "ids": [
+   "31978",
+   "683565",
+   "448979"
+  ],
+  "texts": [
+   "Title: Mask for the Lower Face (Hanho-Ate). Culture: Japanese. Medium: Iron, lacquer, textile (silk). Classification: Armor Parts-Masks",
+   "Title: Terracotta rim fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Classical. Medium: Terracotta. Classification: Vases",
+   "Title: Fragments. Medium: Earthenware; glazed. Classification: Ceramics"
+  ],
+  "sims": [
+   0.7534862674267141,
+   0.5229594757154524,
+   0.5210909160060897
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] the pitch/link names ['Japan'], which appear in no description. Remove anything not in the descriptions.",
+   "[v3] the link mentions 'iron', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the link mentions 'pottery', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Mask for the Lower Face (Hanho-Ate)",
+  "pitch": "Explore the protective and symbolic nature of masks through the Japanese Hanho-Ate, a 19th-century iron face mask, paired with a 5th-century BCE Greek kylix rim and 10th-century earthenware fragments. Each object reveals unique cultural and functional aspects of masks, connecting us to ancient and contemporary practices of disguise and identity.",
+  "link": "material"
+ },
+ "sleep|A_band": {
+  "seed": "sleep",
+  "strategy": "A_band",
+  "idx": [
+   1383,
+   2857,
+   106
+  ],
+  "ids": [
+   "343081",
+   "762886",
+   "11449"
+  ],
+  "texts": [
+   "Title: Vestal Maiden Asleep in a Chair. Medium: Pen and black ink. Classification: Drawings",
+   "Title: Terracotta fragment of an open vase?. Culture: Greek, Corinthian. Period: Corinthian. Medium: Terracotta. Classification: Vases",
+   "Title: The Sprinter. Culture: American. Medium: Bronze"
+  ],
+  "sims": [
+   0.6451895736413878,
+   0.4431064255112639,
+   0.43326653772685175
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 3,
+  "errors": [
+   "the link mentions 'drawing', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "the pitch mentions 'sculpture', which appears in none of the descriptions; remove it."
+  ],
+  "title": "Vestal Maiden Asleep in a Chair",
+  "pitch": "From a 19th-century drawing of a sleeping maiden to a 6th-century BCE Greek vase fragment and a 20th-century bronze statue, each captures a moment of stillness. 'Sleep' unites these diverse works, showcasing how artists across time have explored the tranquility of rest.",
+  "link": "These objects contrast in medium and time, yet all depict states of repose."
+ },
+ "sleep|B_cluster": {
+  "seed": "sleep",
+  "strategy": "B_cluster",
+  "idx": [
+   1383,
+   2882,
+   2506
+  ],
+  "ids": [
+   "343081",
+   "768645",
+   "668521"
+  ],
+  "texts": [
+   "Title: Vestal Maiden Asleep in a Chair. Medium: Pen and black ink. Classification: Drawings",
+   "Title: Terracotta fragments of a kylix (drinking cup). Culture: Greek, Attic. Period: Archaic/Classical. Medium: Terracotta. Classification: Vases",
+   "Title: Terracotta fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Classical. Medium: Terracotta. Classification: Vases"
+  ],
+  "sims": [
+   0.6451895736413878,
+   0.4529824357061363,
+   0.4502941430893695
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Vestal Maiden Asleep in a Chair",
+  "pitch": "Explore the theme of sleep through two vastly different mediums: a delicate 19th-century drawing of a Vestal Maiden and ancient fragments of a kylix. Each piece offers a glimpse into moments of repose across time and culture.",
+  "link": "Despite their different materials, both are from the Greek tradition, one capturing a moment of quiet rest, the other an ancient drinking vessel."
+ },
+ "sleep|C_random": {
+  "seed": "sleep",
+  "strategy": "C_random",
+  "idx": [
+   1383,
+   2802,
+   150
+  ],
+  "ids": [
+   "343081",
+   "742147",
+   "16943"
+  ],
+  "texts": [
+   "Title: Vestal Maiden Asleep in a Chair. Medium: Pen and black ink. Classification: Drawings",
+   "Title: Stucco Fragment. Medium: Stucco; carved, painted (?). Classification: Stucco",
+   "Title: Mountain Landscape. Culture: American. Medium: Ink washes on Bristol board"
+  ],
+  "sims": [
+   0.6451895736413878,
+   0.44829995379005294,
+   0.489067121791627
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Vestal Maiden Asleep in a Chair",
+  "pitch": "Discover the essence of sleep through time and culture. The Vestal Maiden's tranquil ink portrait contrasts with an 8th-12th century Islamic stucco, both capturing moments of rest. The American landscape adds a modern perspective, hinting at the timeless nature of slumber. Each piece offers a unique glimpse into the universal experience of sleep.",
+  "link": "From a quiet seated sleep to ancient carved fragments, these works explore the art of repose."
+ },
+ "river|A_band": {
+  "seed": "river",
+  "strategy": "A_band",
+  "idx": [
+   1883,
+   248,
+   597
+  ],
+  "ids": [
+   "427762",
+   "40310",
+   "202675"
+  ],
+  "texts": [
+   "Title: The Casks and Planks at the Back of the River. Medium: Engraving; third state of three. Classification: Prints",
+   "Title: \u6843\u5c71\u6642\u4ee3 \u6839\u6765\u6307\u6a3d \u4e00\u5bfe|Pair of Sake Caskets. Culture: Japan. Period: Momoyama period (1573\u20131615). Medium: Red and black lacquer (Negoro ware). Classification: Lacquer",
+   "Title: Dish. Culture: French, S\u00e8vres. Medium: Hard-paste porcelain. Classification: Ceramics-Porcelain"
+  ],
+  "sims": [
+   0.7014877350223186,
+   0.48628698284896466,
+   0.5027448906778371
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "River Through Time",
+  "pitch": "Discover rivers through the ages: an engraving captures the banks, a lacquer casket symbolizes the flow of time, and a porcelain dish reflects the changing tastes of the French. Each object adds a unique perspective on water\u2019s enduring presence in our lives.",
+  "link": "From a riverbank view to a sake casket, these works explore water in diverse materials."
+ },
+ "river|B_cluster": {
+  "seed": "river",
+  "strategy": "B_cluster",
+  "idx": [
+   1883,
+   2516,
+   2557
+  ],
+  "ids": [
+   "427762",
+   "669707",
+   "683681"
+  ],
+  "texts": [
+   "Title: The Casks and Planks at the Back of the River. Medium: Engraving; third state of three. Classification: Prints",
+   "Title: Terracotta fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Late Archaic. Medium: Terracotta. Classification: Vases",
+   "Title: Terracotta rim fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Classical. Medium: Terracotta. Classification: Vases"
+  ],
+  "sims": [
+   0.7014877350223186,
+   0.5191570093513732,
+   0.5203250220359423
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "The Casks and Planks at the Back of the River",
+  "pitch": "Explore the fluidity of time and medium with 'The Casks and Planks at the Back of the River', an engraving of a river, juxtaposed with ancient Greek terracotta drinking cups from the Late Archaic and Classical periods. Each object captures a moment, yet their shared material and cultural origin reveal the enduring essence of water and craft.",
+  "link": "While one depicts a riverbank scene, the other two are ancient Greek drinking cups, showcasing different eras and materials."
+ },
+ "river|C_random": {
+  "seed": "river",
+  "strategy": "C_random",
+  "idx": [
+   1883,
+   316,
+   707
+  ],
+  "ids": [
+   "427762",
+   "78743",
+   "215374"
+  ],
+  "texts": [
+   "Title: The Casks and Planks at the Back of the River. Medium: Engraving; third state of three. Classification: Prints",
+   "Title: \u548c\u6b4c\u5937|The Young God Ebisu (Waka ebisu) \u548c\u6b4c\u5937. Culture: Japan. Period: Edo period (1615\u20131868). Medium: Woodblock printed book; ink, color, and brass dust on paper. Classification: Illustrated Books",
+   "Title: Fragment. Culture: British, Buckinghamshire. Medium: Bobbin lace. Classification: Textiles-Laces"
+  ],
+  "sims": [
+   0.7014877350223186,
+   0.5719625438725326,
+   0.5334217829500545
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "The Casks and Planks at the Back of the River",
+  "pitch": "Explore the fluidity of rivers through various media. The Casks and Planks at the Back of the River, an engraving, captures the dynamic force of water. Contrast this with The Young God Ebisu, a colorful woodblock print depicting a riverbank deity, and Fragment, a delicate lace design inspired by riverbank plants. Each object offers a unique perspective on rivers, from the technical to the natural.",
+  "link": "All three pieces depict different aspects of rivers, yet each uses distinct materials\u2014engraving, woodblock, and lace."
+ },
+ "crown|A_band": {
+  "seed": "crown",
+  "strategy": "A_band",
+  "idx": [
+   781,
+   2668,
+   1548
+  ],
+  "ids": [
+   "227697",
+   "710702",
+   "378644"
+  ],
+  "texts": [
+   "Title: Cap crown. Culture: Flemish, Brussels. Medium: Bobbin lace, point d'Angleterre. Classification: Textiles-Laces",
+   "Title: Textile Design with a Vermicular Pattern and Pearls over a Dotted Background. Medium: Gouache. Classification: Drawings|Ornament & Architecture",
+   "Title: Dos-a-dos Phaeton # 3610. Medium: Pen and black ink, watercolor and gouache with gum arabic. Classification: Drawings"
+  ],
+  "sims": [
+   0.7015836071898295,
+   0.502271558989723,
+   0.4957376395740024
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 3,
+  "errors": [
+   "the output was not valid JSON for the schema (OutputParserException).",
+   "the link mentions 'lace', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Cap crown",
+  "pitch": "Explore the art of crowns through diverse materials. The Cap crown, a 18th-century Brussels bobbin lace masterpiece, contrasts with a 1840 textile design in gouache and a 1880 phaeton drawing in pen, ink, watercolor, and gouache. Each piece adds a unique perspective on royal symbolism and craftsmanship.",
+  "link": "These objects contrast in materials: lace, gouache, and ink and watercolor."
+ },
+ "crown|B_cluster": {
+  "seed": "crown",
+  "strategy": "B_cluster",
+  "idx": [
+   781,
+   1994,
+   1926
+  ],
+  "ids": [
+   "227697",
+   "448634",
+   "443045"
+  ],
+  "texts": [
+   "Title: Cap crown. Culture: Flemish, Brussels. Medium: Bobbin lace, point d'Angleterre. Classification: Textiles-Laces",
+   "Title: Textile Fragment. Medium: Linen, silk; plain weave, tapestry weave. Classification: Textiles-Woven",
+   "Title: Textile Fragment. Medium: Linen, silk; plain weave, embroidered. Classification: Textiles-Embroidered"
+  ],
+  "sims": [
+   0.7015836071898295,
+   0.44881375364431775,
+   0.46365381183544485
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Cap crown",
+  "pitch": "Explore the grandeur of crowns through time. From the Flemish bobbin lace of the Cap crown to the Islamic tapestry and embroidered fragments, witness the evolution of textile techniques. Each piece, though distinct, showcases the artistry and craftsmanship that elevates a simple fabric into a regal symbol.",
+  "link": "These crowns, from the 18th century and 10th century, share intricate weaving techniques but differ in culture and era."
+ },
+ "crown|C_random": {
+  "seed": "crown",
+  "strategy": "C_random",
+  "idx": [
+   781,
+   2709,
+   1645
+  ],
+  "ids": [
+   "227697",
+   "718596",
+   "391713"
+  ],
+  "texts": [
+   "Title: Cap crown. Culture: Flemish, Brussels. Medium: Bobbin lace, point d'Angleterre. Classification: Textiles-Laces",
+   "Title: Terracotta fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Classical. Medium: Terracotta. Classification: Vases",
+   "Title: Design for Cabinet Pianoforte, Arabesque Style. Medium: Pen and ink, graphite, watercolor. Classification: Drawings|Ornament & Architecture"
+  ],
+  "sims": [
+   0.7015836071898295,
+   0.5637445170594024,
+   0.5111719618545807
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] the link mentions 'lace', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the link mentions 'lace', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the link mentions 'lace', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Crowning Moments: Textile Mastery, Ancient Art, and Ornamental Design",
+  "pitch": "Explore the intricate art of crowning in 'Crowning Moments.' From the delicate bobbin lace cap crown of 18th-century Brussels, to the ancient Greek kylix fragment, and the ornate 19th-century design for a cabinet pianoforte, each object showcases the art of embellishment and design. Delve into the evolution of crowning through textile, pottery, and decorative arts. ",
+  "link": "The cap crown, a masterpiece of bobbin lace, showcases intricate craftsmanship from 18th-century Brussels. In stark contrast, a fragment of a kylix from ancient Greece, dating to 460\u2013450 BCE, embodies the functional beauty of classical pottery. The 19th-century design for a cabinet pianoforte, adorned with arabesque motifs, highlights decorative artistry. Each piece, in its unique way, captures the essence of crowning or embellishing, from textile mastery to ancient craftsmanship and ornamental design. "
+ },
+ "memory|A_band": {
+  "seed": "memory",
+  "strategy": "A_band",
+  "idx": [
+   1566,
+   2476,
+   368
+  ],
+  "ids": [
+   "380531",
+   "657678",
+   "108205"
+  ],
+  "texts": [
+   "Title: Exactitude. Medium: Gouache drawing after poster of 1929. Classification: Drawings",
+   "Title: Olga Brandon, from the Actresses series (N246), Type 1, issued by Kinney Brothers to promote Sporting Extra Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera",
+   "Title: Jacket. Culture: American. Medium: cotton"
+  ],
+  "sims": [
+   0.6324831783419642,
+   0.5245835550537876,
+   0.5178745270410985
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] the link mentions 'photography', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the pitch mentions 'photography', which appears in none of the descriptions; remove it.",
+   "[v3] the output was not valid JSON for the schema (OutputParserException)."
+  ],
+  "title": "Memory in Medium",
+  "pitch": "Explore the diverse ways memory is captured in 'Exactitude', a 1929 gouache drawing, 'Olga Brandon', a 1890 albumen photograph, and a 1860-65 American jacket. Each medium\u2014drawing, photograph, and garment\u2014brings a unique perspective to the concept of memory, from the ephemeral to the tangible. How do these objects reflect on our understanding of memory?",
+  "link": "These three objects, from different eras and mediums, explore the concept of memory. The 1929 gouache drawing 'Exactitude' captures a fleeting poster image, while the 1890 albumen photograph 'Olga Brandon' preserves a moment in time through ephemeral media. The 1860-65 jacket, a tangible piece of history, carries the weight of everyday memories. Together, they illustrate how memory is recorded and preserved through various means."
+ },
+ "memory|B_cluster": {
+  "seed": "memory",
+  "strategy": "B_cluster",
+  "idx": [
+   1566,
+   2836,
+   2527
+  ],
+  "ids": [
+   "380531",
+   "756021",
+   "671160"
+  ],
+  "texts": [
+   "Title: Exactitude. Medium: Gouache drawing after poster of 1929. Classification: Drawings",
+   "Title: Terracotta fragment of a kylix: eye-cup (drinking cup). Culture: Greek, Attic. Period: Archaic. Medium: Terracotta. Classification: Vases",
+   "Title: Terracotta fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Late Archaic. Medium: Terracotta. Classification: Vases"
+  ],
+  "sims": [
+   0.6324831783419642,
+   0.5399430793016995,
+   0.5444588444532894
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 6,
+  "errors": [
+   "[v3] the pitch/link names ['Greece'], which appear in no description. Remove anything not in the descriptions.",
+   "[v3] evidence phrase 2 ('Terracotta fragment of a kylix (drinking cup)') is not copied exactly from Object 2's description.",
+   "[v3] evidence phrase 2 ('Terracotta fragment of a kylix (drinking cup).') is not copied exactly from Object 2's description.",
+   "[v2] the pitch says 'anonymous', which no description supports; remove invented attributions.",
+   "[v2] the pitch is 156 words; it must be at most 120. Shorten it."
+  ],
+  "title": "Exactitude. Gouache drawing after poster of 1929",
+  "pitch": "Exactitude (1929) and the terracotta kylix fragments (540\u2013520 BCE and 490\u2013480 BCE) showcase memory through different mediums. 'Exactitude' captures a poster, immortalizing a fleeting image. The kylix fragments, though fragments themselves, embody the enduring nature of ancient drinking culture. Together, they explore how memory is both precise and enduring.",
+  "link": "Exactitude shares a medium with the terracotta kylix fragments, both using durable materials to capture fleeting moments. While 'Exactitude' is a precise 20th-century drawing, the kylix fragments are ancient drinking cups from the Archaic period, each a fragment of daily life preserved for millennia."
+ },
+ "memory|C_random": {
+  "seed": "memory",
+  "strategy": "C_random",
+  "idx": [
+   1566,
+   2633,
+   480
+  ],
+  "ids": [
+   "380531",
+   "703327",
+   "190724"
+  ],
+  "texts": [
+   "Title: Exactitude. Medium: Gouache drawing after poster of 1929. Classification: Drawings",
+   "Title: Terracotta fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Late Archaic/Early Classical. Medium: Terracotta. Classification: Vases",
+   "Title: Dish. Culture: Dutch, Delft. Medium: Tin-glazed earthenware. Classification: Ceramics-Pottery"
+  ],
+  "sims": [
+   0.6324831783419642,
+   0.5462952240778103,
+   0.5450064359002436
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 3,
+  "errors": [
+   "the link mentions 'earthenware', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "the link mentions 'pottery', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Exactitude",
+  "pitch": "Explore memory through diverse materials. 'Exactitude' uses gouache to depict a 1929 poster, capturing fleeting moments. A Greek terracotta kylix hints at ancient drinking rituals, while a Dutch dish evokes daily life. Each object, in its unique way, keeps memories alive.",
+  "link": "Different materials\u2014gouache, terracotta, and tin-glazed earthenware\u2014capture various aspects of memory."
+ },
+ "flight|A_band": {
+  "seed": "flight",
+  "strategy": "A_band",
+  "idx": [
+   1823,
+   1125,
+   2670
+  ],
+  "ids": [
+   "416726",
+   "308468",
+   "710973"
+  ],
+  "texts": [
+   "Title: The Flight into Egypt. Medium: Engraving. Classification: Prints",
+   "Title: Bowl. Culture: Paracas. Medium: Ceramic. Classification: Ceramics-Containers",
+   "Title: Governor Oglesby, Illinois, from \"Governors, Arms, Etc.\" series (N133-2), issued by Duke Sons & Co.. Medium: Commercial color lithograph. Classification: Prints|Ephemera"
+  ],
+  "sims": [
+   0.7076735560202556,
+   0.48235413607625033,
+   0.4978242718985998
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "The Flight into Egypt",
+  "pitch": "From 16th-century engraving to ancient ceramic, The Flight into Egypt and the Paracas Bowl both capture dynamic motion. Despite their differences in medium\u2014print and ceramic\u2014they both tell stories of journeys, reflecting the universal human experience of flight and migration.",
+  "link": "A sharp contrast in materials and eras, yet both convey movement."
+ },
+ "flight|B_cluster": {
+  "seed": "flight",
+  "strategy": "B_cluster",
+  "idx": [
+   1823,
+   2616,
+   2836
+  ],
+  "ids": [
+   "416726",
+   "699102",
+   "756021"
+  ],
+  "texts": [
+   "Title: The Flight into Egypt. Medium: Engraving. Classification: Prints",
+   "Title: Terracotta fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Archaic. Medium: Terracotta. Classification: Vases",
+   "Title: Terracotta fragment of a kylix: eye-cup (drinking cup). Culture: Greek, Attic. Period: Archaic. Medium: Terracotta. Classification: Vases"
+  ],
+  "sims": [
+   0.7076735560202556,
+   0.5041596263961586,
+   0.5055127563147783
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 3,
+  "errors": [
+   "the pitch/link names ['Greece'], which appear in no description. Remove anything not in the descriptions.",
+   "the link mentions 'engraving', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "The Flight into Egypt",
+  "pitch": "Explore the dualities of flight through mediums as different as The Flight into Egypt's engraving and two terracotta kylix fragments. Each piece, though made of clay, offers a unique perspective on movement and journey, from biblical narrative to ancient Greek drinking vessels.",
+  "link": "Different materials, both made of terracotta, yet one is an engraving."
+ },
+ "flight|C_random": {
+  "seed": "flight",
+  "strategy": "C_random",
+  "idx": [
+   1823,
+   1330,
+   2636
+  ],
+  "ids": [
+   "416726",
+   "338095",
+   "703597"
+  ],
+  "texts": [
+   "Title: The Flight into Egypt. Medium: Engraving. Classification: Prints",
+   "Title: The Apse of Notre-Dame, Paris. Medium: Graphite. Classification: Drawings",
+   "Title: Terracotta fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Archaic. Medium: Terracotta. Classification: Vases"
+  ],
+  "sims": [
+   0.7076735560202556,
+   0.5512815082471643,
+   0.5041596263961586
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "The Flight into Egypt",
+  "pitch": "From a 16th-century engraving, 'The Flight into Egypt' depicts religious flight, to a 19th-century drawing of Notre-Dame\u2019s apse, and an Archaic Greek kylix fragment. Each captures a moment of movement and change, illustrating the diverse ways humans have expressed the concept of flight through time and medium.",
+  "link": "These works contrast engravings with drawings and terracotta, showcasing different mediums and eras."
+ },
+ "prayer|A_band": {
+  "seed": "prayer",
+  "strategy": "A_band",
+  "idx": [
+   2652,
+   6,
+   135
+  ],
+  "ids": [
+   "708069",
+   "803",
+   "15350"
+  ],
+  "texts": [
+   "Title: Half of a Prayer Bead with the Crucifixion. Culture: Netherlandish. Medium: Boxwood. Classification: Sculpture-Miniature-Wood",
+   "Title: Two-handled bowl. Culture: American. Medium: Silver",
+   "Title: Landscape with Trees, Mountains, and Country Lane (from Sketchbook VII). Culture: American. Medium: Graphite on off-white wove paper"
+  ],
+  "sims": [
+   0.6799780527178584,
+   0.4661513747021713,
+   0.4652285059581227
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Half of a Prayer Bead with the Crucifixion",
+  "pitch": "Explore the essence of prayer through these works: a 16th-century Netherlandish prayer bead, an elegant 17th-century American silver bowl, and an 1886 American sketch. Each object embodies a form of devotion, offering unique insights into the human spirit\u2019s yearning for connection and reflection.",
+  "link": "A prayer bead and a silver bowl contrast with a graphite sketch, united by their spiritual intent."
+ },
+ "prayer|B_cluster": {
+  "seed": "prayer",
+  "strategy": "B_cluster",
+  "idx": [
+   2652,
+   901,
+   2509
+  ],
+  "ids": [
+   "708069",
+   "244848",
+   "669525"
+  ],
+  "texts": [
+   "Title: Half of a Prayer Bead with the Crucifixion. Culture: Netherlandish. Medium: Boxwood. Classification: Sculpture-Miniature-Wood",
+   "Title: Terracotta stemmed kyathos (single-handled cup). Culture: Etruscan. Period: Archaic. Medium: Terracotta. Classification: Vases",
+   "Title: Terracotta fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Classical. Medium: Terracotta. Classification: Vases"
+  ],
+  "sims": [
+   0.6799780527178584,
+   0.4451238606341269,
+   0.45495652864734104
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Half of a Prayer Bead with the Crucifixion",
+  "pitch": "Explore the spiritual journey through time with a 16th-century Netherlandish prayer bead and a 5th-century BCE Etruscan kyathos. Both objects serve as tangible links to ancient rituals and personal piety, bridging centuries and cultures. Delve into the history of prayer through these quiet, powerful artifacts.",
+  "link": "Despite their different materials and eras, both prayer beads and ancient drinking cups share a common purpose: ritual and devotion."
+ },
+ "prayer|C_random": {
+  "seed": "prayer",
+  "strategy": "C_random",
+  "idx": [
+   2652,
+   12,
+   188
+  ],
+  "ids": [
+   "708069",
+   "1594",
+   "26728"
+  ],
+  "texts": [
+   "Title: Half of a Prayer Bead with the Crucifixion. Culture: Netherlandish. Medium: Boxwood. Classification: Sculpture-Miniature-Wood",
+   "Title: Side Chair. Culture: American. Medium: Walnut",
+   "Title: Boar Spear. Culture: German. Medium: Steel, wood (pine), iron, leather. Classification: Shafted Weapons"
+  ],
+  "sims": [
+   0.6799780527178584,
+   0.48547528657619626,
+   0.38674770417303195
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Half of a Prayer Bead with the Crucifixion",
+  "pitch": "Explore the profound spiritual journey from a 16th-century Netherlandish prayer bead to a 1740\u201380 American side chair. Each object, though different in material and purpose, serves a personal connection to faith and craftsmanship.",
+  "link": "A shared spiritual purpose contrasts a prayer bead with a side chair and a boar spear."
+ },
+ "fabric|A_band": {
+  "seed": "fabric",
+  "strategy": "A_band",
+  "idx": [
+   1973,
+   216,
+   1012
+  ],
+  "ids": [
+   "446278",
+   "32848",
+   "256871"
+  ],
+  "texts": [
+   "Title: Textile Fragment. Medium: Cotton. Classification: Textiles-Painted and/or Printed",
+   "Title: Coin (Thaler) Showing August I (The Pious) of Saxony. Culture: German. Medium: Silver. Classification: Miscellaneous-Coins and Medals",
+   "Title: Bronze belt clasp. Culture: Greek. Period: Geometric. Medium: bronze. Classification: Bronzes"
+  ],
+  "sims": [
+   0.7505163239972349,
+   0.5240439022014914,
+   0.522803462563831
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Textile Fragment",
+  "pitch": "Explore the versatility of fabric through time with the Textile Fragment\u2019s vibrant cotton, the Thaler\u2019s intricate silver design, and the ancient Greek Bronze belt clasp\u2019s geometric patterns. Each piece showcases the creative use of materials to express cultural and historical narratives.",
+  "link": "This diverse collection contrasts painted cotton from the 18th century with silver coins and geometric bronze from antiquity."
+ },
+ "fabric|B_cluster": {
+  "seed": "fabric",
+  "strategy": "B_cluster",
+  "idx": [
+   1973,
+   2516,
+   2583
+  ],
+  "ids": [
+   "446278",
+   "669707",
+   "691724"
+  ],
+  "texts": [
+   "Title: Textile Fragment. Medium: Cotton. Classification: Textiles-Painted and/or Printed",
+   "Title: Terracotta fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Late Archaic. Medium: Terracotta. Classification: Vases",
+   "Title: Terracotta fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Archaic. Medium: Terracotta. Classification: Vases"
+  ],
+  "sims": [
+   0.7505163239972349,
+   0.5384406268255971,
+   0.5374928607917183
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 3,
+  "errors": [
+   "the pitch/link names ['Ancient', 'Greece'], which appear in no description. Remove anything not in the descriptions.",
+   "the pitch mentions 'pottery', which appears in none of the descriptions; remove it."
+  ],
+  "title": "Textile Fragment",
+  "pitch": "Explore the versatility of fabric and clay through time. The 18th-century Textile Fragment showcases Islamic artistry, while the ancient Greek Terracotta fragments of kylixes reveal the evolution of drinking vessels. Each piece tells a story of its era and material.",
+  "link": "Both objects share the material terracotta, yet they represent different eras and purposes."
+ },
+ "fabric|C_random": {
+  "seed": "fabric",
+  "strategy": "C_random",
+  "idx": [
+   1973,
+   309,
+   1013
+  ],
+  "ids": [
+   "446278",
+   "63998",
+   "256911"
+  ],
+  "texts": [
+   "Title: Textile Fragment. Medium: Cotton. Classification: Textiles-Painted and/or Printed",
+   "Title: \u6e05   \u81e8\u8cab\u4f11\u5341\u516d\u7f85\u6f22\u5716 (\u62d3\u7247)|Luohan, after a set attributed to Guanxiu. Culture: China. Period: Qing dynasty (1644\u20131911). Medium: Ink on paper. Classification: Rubbing",
+   "Title: Marble bust of a bearded man. Culture: Roman. Period: Mid-Imperial, Antonine. Medium: Marble. Classification: Stone Sculpture"
+  ],
+  "sims": [
+   0.7505163239972349,
+   0.5393269548798535,
+   0.4800477571078068
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Textile Fragment",
+  "pitch": "Explore the artistry in fabric through a vibrant 18th-century cotton textile, a delicate Qing dynasty rubbing, and a Roman marble sculpture. Each piece, though distinct, highlights the skill of its makers.",
+  "link": "While these objects vary in material, they all showcase intricate craftsmanship from different cultures."
+ },
+ "play|A_band": {
+  "seed": "play",
+  "strategy": "A_band",
+  "idx": [
+   2850,
+   341,
+   861
+  ],
+  "ids": [
+   "760624",
+   "98048",
+   "241637"
+  ],
+  "texts": [
+   "Title: The new lottery game for children. Medium: Wood engraving. Classification: Prints",
+   "Title: Collar. Culture: British. Medium: [no medium available]",
+   "Title: Terracotta oil lamp. Culture: Roman. Period: Early Imperial. Medium: Terracotta. Classification: Terracottas"
+  ],
+  "sims": [
+   0.6353613137059506,
+   0.5070649376955081,
+   0.5111219413931415
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "The new lottery game for children",
+  "pitch": "Explore how play is immortalized in art. 'The new lottery game for children' captures a moment of youthful fun, while a British collar from the early 19th century shows playfulness in everyday attire. The Roman terracotta oil lamp, a utilitarian object, subtly links these through practical design. How do we express joy and fun across different mediums and eras?",
+  "link": "From a children's lottery to a British collar, these works contrast play with practical wear."
+ },
+ "play|B_cluster": {
+  "seed": "play",
+  "strategy": "B_cluster",
+  "idx": [
+   2850,
+   752,
+   808
+  ],
+  "ids": [
+   "760624",
+   "223496",
+   "230163"
+  ],
+  "texts": [
+   "Title: The new lottery game for children. Medium: Wood engraving. Classification: Prints",
+   "Title: Piece. Culture: Italian. Medium: Silk. Classification: Textiles-Woven",
+   "Title: Fragment. Culture: Italian. Medium: Silk. Classification: Textiles-Velvets"
+  ],
+  "sims": [
+   0.6353613137059506,
+   0.5176406378246117,
+   0.5210427302077327
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "The new lottery game for children.",
+  "pitch": "Explore the essence of play through 'The new lottery game for children' and two exquisite Italian textiles. Wood engraving captures a whimsical scene, while silken fabrics from the 16th and 17th centuries display intricate patterns, each highlighting the joy and creativity inherent in play across centuries.",
+  "link": "These works, from wood engraving to silk textiles, showcase diverse media reflecting play in different eras."
+ },
+ "play|C_random": {
+  "seed": "play",
+  "strategy": "C_random",
+  "idx": [
+   2850,
+   541,
+   1148
+  ],
+  "ids": [
+   "760624",
+   "196147",
+   "312702"
+  ],
+  "texts": [
+   "Title: The new lottery game for children. Medium: Wood engraving. Classification: Prints",
+   "Title: Miniature beaker. Culture: German. Medium: Glass. Classification: Glass",
+   "Title: Frog Ornament. Culture: Veraguas. Medium: Gold. Classification: Metal-Ornaments"
+  ],
+  "sims": [
+   0.6353613137059506,
+   0.5139085247864525,
+   0.5485923934055879
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 2,
+  "errors": [
+   "the pitch/link names ['Germany'], which appear in no description. Remove anything not in the descriptions."
+  ],
+  "title": "The new lottery game for children",
+  "pitch": "Explore how play is depicted differently across centuries and cultures. The new lottery game for children, a wood engraving from 1866, captures a youthful moment of chance and excitement. Side by side, a miniature beaker and a frog ornament in gold from the 11th to 16th centuries showcase playfulness in everyday objects. Each piece adds a layer to the timeless idea of play through its unique material and context.",
+  "link": "A wood engraving contrasts with glass and gold ornaments, each telling a story."
+ },
+ "travel|A_band": {
+  "seed": "travel",
+  "strategy": "A_band",
+  "idx": [
+   1524,
+   535,
+   2556
+  ],
+  "ids": [
+   "373933",
+   "195840",
+   "683639"
+  ],
+  "texts": [
+   "Title: Rest on the Flight into Egypt. Medium: Etching, third state of four. Classification: Prints",
+   "Title: Standing cup with cover. Culture: German, Anstadt. Medium: Glass. Classification: Glass",
+   "Title: Terracotta rim fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Classical. Medium: Terracotta. Classification: Vases"
+  ],
+  "sims": [
+   0.6425647150496137,
+   0.4799567137389006,
+   0.4910970417626134
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "373933",
+  "pitch": "From a 17th-century etching of a weary traveler to a 17th-century German glass cup and an ancient Greek drinking vessel, each tells a story of movement and passage. See how artists and cultures across time and space capture the essence of travel.",
+  "link": "While these objects differ in material and era, they all explore the concept of journey and travel in their unique ways."
+ },
+ "travel|B_cluster": {
+  "seed": "travel",
+  "strategy": "B_cluster",
+  "idx": [
+   1524,
+   2527,
+   2717
+  ],
+  "ids": [
+   "373933",
+   "671160",
+   "718971"
+  ],
+  "texts": [
+   "Title: Rest on the Flight into Egypt. Medium: Etching, third state of four. Classification: Prints",
+   "Title: Terracotta fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Late Archaic. Medium: Terracotta. Classification: Vases",
+   "Title: Terracotta rim fragment of a kylix (drinking cup). Culture: Greek, Attic. Period: Classical. Medium: Terracotta. Classification: Vases"
+  ],
+  "sims": [
+   0.6425647150496137,
+   0.485947596369643,
+   0.4910970417626134
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Rest on the Flight into Egypt",
+  "pitch": "Discover how travel is depicted in various forms. 'Rest on the Flight into Egypt' captures a sacred journey, while ancient Greek kylix fragments tell stories of everyday travels long past. Each piece offers a unique perspective on movement and history.",
+  "link": "These works explore journeys, one through art and one through time."
+ },
+ "travel|C_random": {
+  "seed": "travel",
+  "strategy": "C_random",
+  "idx": [
+   1524,
+   478,
+   2112
+  ],
+  "ids": [
+   "373933",
+   "190441",
+   "463915"
+  ],
+  "texts": [
+   "Title: Rest on the Flight into Egypt. Medium: Etching, third state of four. Classification: Prints",
+   "Title: Leaf. Culture: French. Medium: Gilt bronze. Classification: Metalwork-Gilt Bronze",
+   "Title: Double Column. Culture: French. Medium: Marble. Classification: Sculpture-Architectural"
+  ],
+  "sims": [
+   0.6425647150496137,
+   0.46625801955583224,
+   0.5168836164746784
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Rest on the Flight into Egypt",
+  "pitch": "Explore the essence of travel through time and medium. 'Rest on the Flight into Egypt' etches a 17th-century scene, while a 18th-century gilt bronze leaf and a 13th-century marble double column offer glimpses of journeys across cultures and eras. Each piece captures a moment of passage, reflecting the universal human experience of movement and discovery.",
+  "link": "These works, from the 17th to the 13th century, depict travel through different media."
+ },
+ "dream|A_band": {
+  "seed": "dream",
+  "strategy": "A_band",
+  "idx": [
+   1383,
+   1016,
+   541
+  ],
+  "ids": [
+   "343081",
+   "257148",
+   "196147"
+  ],
+  "texts": [
+   "Title: Vestal Maiden Asleep in a Chair. Medium: Pen and black ink. Classification: Drawings",
+   "Title: Glass monochrome inlay fragment. Culture: Roman. Period: Early Imperial, Julio-Claudian. Medium: Glass. Classification: Glass",
+   "Title: Miniature beaker. Culture: German. Medium: Glass. Classification: Glass"
+  ],
+  "sims": [
+   0.6143735970025674,
+   0.4833291107169623,
+   0.46587050431737925
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Vestal Maiden Asleep in a Chair",
+  "pitch": "Explore dreams through mediums: a sleeping maiden's quiet moment (1879), Roman glass inlays hinting at early imperial life (1st century CE), and a 19th-century miniature beaker capturing a fleeting vision. Each piece invites a meditation on the elusive nature of dreams.",
+  "link": "Different materials tell tales of dreams."
+ },
+ "dream|B_cluster": {
+  "seed": "dream",
+  "strategy": "B_cluster",
+  "idx": [
+   1383,
+   997,
+   912
+  ],
+  "ids": [
+   "343081",
+   "255063",
+   "245821"
+  ],
+  "texts": [
+   "Title: Vestal Maiden Asleep in a Chair. Medium: Pen and black ink. Classification: Drawings",
+   "Title: Terracotta lekythos (oil flask). Culture: Greek, Corinthian. Period: Late Corinthian I. Medium: Terracotta. Classification: Vases",
+   "Title: Baby feeder. Culture: Greek, Attic. Period: Late Classical. Medium: Terracotta. Classification: Vases"
+  ],
+  "sims": [
+   0.6143735970025674,
+   0.4701104174011775,
+   0.47190442528934373
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 5,
+  "errors": [
+   "[v3] the link mentions 'oil', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the link mentions 'drawing', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the pitch mentions 'pottery', which appears in none of the descriptions; remove it.",
+   "[v2] the pitch says 'anonymous', which no description supports; remove invented attributions."
+  ],
+  "title": "Vestal Maiden Asleep in a Chair",
+  "pitch": "Explore the transient nature of dreams through a 19th-century drawing by a Vestal Maiden asleep in a chair. Nearby, a Late Corinthian I terracotta lekythos (oil flask) from 570\u2013550 BCE and a Late Classical baby feeder from 350\u2013325 BCE, both from Attic Greece, offer stark contrasts in scale and function. Together, they reveal the human experience of dreaming, from the intimate to the everyday. This exhibition invites you to ponder the universal act of dreaming, both in art and life.",
+  "link": "a sense of quiet introspection"
+ },
+ "dream|C_random": {
+  "seed": "dream",
+  "strategy": "C_random",
+  "idx": [
+   1383,
+   1457,
+   747
+  ],
+  "ids": [
+   "343081",
+   "363327",
+   "223037"
+  ],
+  "texts": [
+   "Title: Vestal Maiden Asleep in a Chair. Medium: Pen and black ink. Classification: Drawings",
+   "Title: The tomb of Caecilia Metella, from Vedute di Roma (Roman Views). Medium: Etching; first state of five (Hind). Classification: Prints",
+   "Title: Sample. Culture: French, Lyons. Medium: Wool, silk threads. Classification: Textiles-Embroidered"
+  ],
+  "sims": [
+   0.6143735970025674,
+   0.5363281435517709,
+   0.5033680507611957
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 4,
+  "errors": [
+   "[v3] the link mentions 'embroidery', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines.",
+   "[v3] the pitch mentions 'embroidery', which appears in none of the descriptions; remove it.",
+   "[v3] the link mentions 'drawing', but no object's Medium or Classification line says so (a word in a title does not count). Only name materials and techniques you quoted from the Medium lines."
+  ],
+  "title": "Dreamscapes: Exploring the Realm of the Unconscious",
+  "pitch": "Discover the realm of dreams through three unique works. A Vestal Maiden Asleep in a Chair (1879) offers a quiet study of a dreamer, while The tomb of Caecilia Metella, from Vedute di Roma (1762) hints at the dreaming soul in death. A French embroidered Sample (late 18th-early 19th century) evokes a dreamy world through its delicate threads. Explore how these pieces, each in their own medium\u2014ink, etching, and embroidery\u2014portray the fleeting nature of dreams.",
+  "link": "A shared theme of the unconscious mind connects these objects, each capturing a moment of slumber or reverie."
+ },
+ "protection|A_band": {
+  "seed": "protection",
+  "strategy": "A_band",
+  "idx": [
+   167,
+   1125,
+   2923
+  ],
+  "ids": [
+   "23133",
+   "308468",
+   "788240"
+  ],
+  "texts": [
+   "Title: Upper Arm Defense (Rerebrace). Culture: Italian. Medium: Steel. Classification: Armor Parts",
+   "Title: Bowl. Culture: Paracas. Medium: Ceramic. Classification: Ceramics-Containers",
+   "Title: The Theatre. Medium: Hand-colored etching and aquatint. Classification: Prints"
+  ],
+  "sims": [
+   0.6656401410705038,
+   0.5249588180095689,
+   0.5156707744678275
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Upper Arm Defense (Rerebrace)",
+  "pitch": "Explore how protection manifests across cultures and time. The Upper Arm Defense (Rerebrace) shields a medieval warrior. The Paracas Bowl, a vessel for the elite, protects the deceased's remains. The Theatre, a print, protects our imagination by preserving a moment in time. Each object tells a story of safeguarding, be it physical or emotional.",
+  "link": "These objects, from the 15th century and beyond, each offer unique forms of protection."
+ },
+ "protection|B_cluster": {
+  "seed": "protection",
+  "strategy": "B_cluster",
+  "idx": [
+   167,
+   1736,
+   1752
+  ],
+  "ids": [
+   "23133",
+   "402686",
+   "405295"
+  ],
+  "texts": [
+   "Title: Upper Arm Defense (Rerebrace). Culture: Italian. Medium: Steel. Classification: Armor Parts",
+   "Title: Edward M. Daily, Pitcher, Philadelphia, from the Old Judge series (N172) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera",
+   "Title: Nellie Dornry, from the Actors and Actresses series (N171) for Old Judge Cigarettes. Medium: Albumen photograph. Classification: Photographs|Ephemera"
+  ],
+  "sims": [
+   0.6656401410705038,
+   0.49160154556161617,
+   0.4990980966408101
+  ],
+  "valid": true,
+  "version": "v2",
+  "attempts": 5,
+  "errors": [
+   "[v3] the pitch/link names ['Italy'], which appear in no description. Remove anything not in the descriptions.",
+   "[v3] evidence phrase 2 ('Armor Parts') is not copied exactly from Object 2's description.",
+   "[v3] evidence phrase 2 ('Armor Parts') is not copied exactly from Object 2's description.",
+   "[v2] the output was not valid JSON for the schema (OutputParserException)."
+  ],
+  "title": "Exhibition Pitch",
+  "pitch": "Explore the concept of protection through diverse mediums. Upper Arm Defense (Rerebrace) offers physical defense in the form of steel armor from the 15th century. Meanwhile, Edward M. Daily and Nellie Dornry, from the Old Judge series, use albumen photographs to protect images and messages on cigarette cards. These objects, from different eras and departments, all grapple with the idea of safeguarding in unique ways, connecting back to the search word 'protection'.",
+  "link": "All three objects share the material of albumen, a key component in their photographic process, despite their different functions and subjects."
+ },
+ "protection|C_random": {
+  "seed": "protection",
+  "strategy": "C_random",
+  "idx": [
+   167,
+   1505,
+   2931
+  ],
+  "ids": [
+   "23133",
+   "371478",
+   "811396"
+  ],
+  "texts": [
+   "Title: Upper Arm Defense (Rerebrace). Culture: Italian. Medium: Steel. Classification: Armor Parts",
+   "Title: Woman Churning Butter. Medium: Etching on thin laid paper; third state of three (final state). Classification: Prints",
+   "Title: A Hitt at Backgammon. Medium: Hand-colored etching. Classification: Prints"
+  ],
+  "sims": [
+   0.6656401410705038,
+   0.5357859882481999,
+   0.5376798627335336
+  ],
+  "valid": true,
+  "version": "v3",
+  "attempts": 1,
+  "errors": [],
+  "title": "Upper Arm Defense (Rerebrace)",
+  "pitch": "Explore the layers of protection in our exhibition. First, marvel at the Upper Arm Defense (Rerebrace), a sturdy shield from the 15th century. Then, see how etchings like 'Woman Churning Butter' and 'A Hitt at Backgammon' safeguard delicate images and narratives from the 19th century. Both objects, though different in material and era, embody the essence of safeguarding\u2014be it the body or the mind. Each piece adds a unique layer to our understanding of protection through time and medium.",
+  "link": "While the Upper Arm Defense (Rerebrace) from the 15th century provides physical protection, the etchings from the 19th century offer a different kind of shield\u2014protecting scenes and stories."
+ }
+}

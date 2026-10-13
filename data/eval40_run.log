@@ -1,0 +1,189 @@
+[  0.7 min] winter|A_band            valid=True via=v2 attempts=4
+[  0.9 min] winter|B_cluster         valid=True via=v3 attempts=2
+[  1.0 min] winter|C_random          valid=True via=v3 attempts=1
+[  1.5 min] war|A_band               valid=True via=v2 attempts=4
+[  2.2 min] war|B_cluster            valid=True via=v2 attempts=5
+[  2.3 min] war|C_random             valid=True via=v3 attempts=1
+[  3.0 min] love|A_band              valid=True via=v2 attempts=6
+[  3.3 min] love|B_cluster           valid=True via=v3 attempts=3
+[  3.8 min] love|C_random            valid=True via=v2 attempts=4
+[  4.0 min] ocean|A_band             valid=True via=v3 attempts=2
+[  4.1 min] ocean|B_cluster          valid=True via=v3 attempts=1
+[  4.6 min] ocean|C_random           valid=True via=v2 attempts=4
+[  4.9 min] mourning|A_band          valid=True via=v3 attempts=3
+[  5.0 min] mourning|B_cluster       valid=True via=v3 attempts=1
+[  5.1 min] mourning|C_random        valid=True via=v3 attempts=1
+[  5.5 min] gold|A_band              valid=True via=v2 attempts=4
+[  6.0 min] gold|B_cluster           valid=True via=v2 attempts=4
+[  6.4 min] gold|C_random            valid=True via=v2 attempts=4
+[  6.5 min] music|A_band             valid=True via=v3 attempts=1
+[  6.6 min] music|B_cluster          valid=True via=v3 attempts=1
+[  7.0 min] music|C_random           valid=True via=v3 attempts=3
+[  7.1 min] storm|A_band             valid=True via=v3 attempts=1
+[  7.5 min] storm|B_cluster          valid=True via=v2 attempts=4
+[  8.0 min] storm|C_random           valid=True via=v2 attempts=4
+[  8.1 min] childhood|A_band         valid=True via=v3 attempts=1
+[  8.2 min] childhood|B_cluster      valid=True via=v3 attempts=1
+[  8.3 min] childhood|C_random       valid=True via=v3 attempts=1
+[  9.2 min] ritual|A_band            valid=True via=v2 attempts=5
+[  9.4 min] ritual|B_cluster         valid=True via=v3 attempts=3
+[ 10.3 min] ritual|C_random          valid=True via=v2 attempts=5
+[ 10.8 min] silence|A_band           valid=True via=v2 attempts=4
+[ 10.9 min] silence|B_cluster        valid=True via=v3 attempts=1
+[ 11.4 min] silence|C_random         valid=True via=v2 attempts=4
+[ 12.1 min] harvest|A_band           valid=True via=v2 attempts=6
+[ 13.0 min] harvest|B_cluster        valid=False via=v2 attempts=6
+[ 13.2 min] harvest|C_random         valid=True via=v3 attempts=1
+[ 13.7 min] dragon|A_band            valid=True via=v2 attempts=4
+[ 14.3 min] dragon|B_cluster         valid=True via=v2 attempts=4
+[ 15.6 min] dragon|C_random          valid=False via=v2 attempts=6
+[ 15.7 min] mirror|A_band            valid=True via=v3 attempts=1
+[ 15.8 min] mirror|B_cluster         valid=True via=v3 attempts=1
+[ 16.1 min] mirror|C_random          valid=True via=v3 attempts=3
+[ 16.3 min] bridge|A_band            valid=True via=v3 attempts=2
+[ 16.7 min] bridge|B_cluster         valid=True via=v3 attempts=3
+[ 16.8 min] bridge|C_random          valid=True via=v3 attempts=1
+[ 18.1 min] night|A_band             valid=True via=v2 attempts=6
+[ 18.6 min] night|B_cluster          valid=True via=v3 attempts=2
+[ 18.7 min] night|C_random           valid=True via=v3 attempts=1
+[ 18.9 min] dance|A_band             valid=True via=v3 attempts=2
+[ 19.1 min] dance|B_cluster          valid=True via=v3 attempts=2
+[ 19.7 min] dance|C_random           valid=True via=v2 attempts=4
+[ 20.8 min] fire|A_band              valid=True via=v3 attempts=1
+[ 21.4 min] fire|B_cluster           valid=True via=v2 attempts=4
+[ 21.5 min] fire|C_random            valid=True via=v3 attempts=1
+[ 23.1 min] bird|A_band              valid=True via=v3 attempts=3
+[ 25.3 min] bird|B_cluster           valid=True via=v3 attempts=2
+[ 26.5 min] bird|C_random            valid=True via=v3 attempts=1
+[ 29.9 min] journey|A_band           valid=True via=v2 attempts=4
+[ 30.0 min] journey|B_cluster        valid=True via=v3 attempts=1
+[ 30.2 min] journey|C_random         valid=True via=v3 attempts=2
+[ 30.6 min] feast|A_band             valid=True via=v3 attempts=3
+[ 30.7 min] feast|B_cluster          valid=True via=v3 attempts=1
+[ 30.9 min] feast|C_random           valid=True via=v3 attempts=2
+[ 31.0 min] portrait|A_band          valid=True via=v3 attempts=1
+[ 31.1 min] portrait|B_cluster       valid=True via=v3 attempts=1
+[ 31.2 min] portrait|C_random        valid=True via=v3 attempts=1
+[ 31.4 min] garden|A_band            valid=True via=v3 attempts=1
+[ 31.5 min] garden|B_cluster         valid=True via=v3 attempts=1
+[ 32.0 min] garden|C_random          valid=True via=v2 attempts=4
+[ 32.2 min] exile|A_band             valid=True via=v3 attempts=1
+[ 32.3 min] exile|B_cluster          valid=True via=v3 attempts=1
+[ 32.7 min] exile|C_random           valid=True via=v3 attempts=3
+[ 32.8 min] power|A_band             valid=True via=v3 attempts=1
+[ 33.1 min] power|B_cluster          valid=True via=v3 attempts=2
+[ 33.2 min] power|C_random           valid=True via=v3 attempts=1
+[ 33.3 min] luck|A_band              valid=True via=v3 attempts=1
+[ 33.4 min] luck|B_cluster           valid=True via=v3 attempts=1
+[ 40.0 min] luck|C_random            valid=True via=v2 attempts=5
+[ 42.4 min] wedding|A_band           valid=True via=v3 attempts=2
+[ 42.6 min] wedding|B_cluster        valid=True via=v3 attempts=1
+[ 76.5 min] wedding|C_random         valid=True via=v3 attempts=3
+[ 85.3 min] hunting|A_band           valid=True via=v3 attempts=2
+[ 89.3 min] hunting|B_cluster        valid=True via=v3 attempts=1
+[ 93.4 min] hunting|C_random         valid=True via=v3 attempts=1
+[117.6 min] mask|A_band              valid=True via=v2 attempts=4
+[141.3 min] mask|B_cluster           valid=True via=v3 attempts=3
+[175.8 min] mask|C_random            valid=True via=v2 attempts=4
+[192.4 min] sleep|A_band             valid=True via=v3 attempts=3
+[233.6 min] sleep|B_cluster          valid=True via=v3 attempts=1
+[295.0 min] sleep|C_random           valid=True via=v3 attempts=1
+[371.4 min] river|A_band             valid=True via=v3 attempts=1
+[422.5 min] river|B_cluster          valid=True via=v3 attempts=1
+[457.3 min] river|C_random           valid=True via=v3 attempts=1
+[526.7 min] crown|A_band             valid=True via=v3 attempts=3
+[526.8 min] crown|B_cluster          valid=True via=v3 attempts=1
+[527.4 min] crown|C_random           valid=True via=v2 attempts=4
+[528.2 min] memory|A_band            valid=True via=v2 attempts=4
+[529.1 min] memory|B_cluster         valid=True via=v2 attempts=6
+[529.4 min] memory|C_random          valid=True via=v3 attempts=3
+[529.5 min] flight|A_band            valid=True via=v3 attempts=1
+[529.9 min] flight|B_cluster         valid=True via=v3 attempts=3
+[530.0 min] flight|C_random          valid=True via=v3 attempts=1
+[530.1 min] prayer|A_band            valid=True via=v3 attempts=1
+[530.3 min] prayer|B_cluster         valid=True via=v3 attempts=1
+[530.4 min] prayer|C_random          valid=True via=v3 attempts=1
+[530.5 min] fabric|A_band            valid=True via=v3 attempts=1
+[530.8 min] fabric|B_cluster         valid=True via=v3 attempts=3
+[530.9 min] fabric|C_random          valid=True via=v3 attempts=1
+[531.0 min] play|A_band              valid=True via=v3 attempts=1
+[531.1 min] play|B_cluster           valid=True via=v3 attempts=1
+[531.3 min] play|C_random            valid=True via=v3 attempts=2
+[531.5 min] travel|A_band            valid=True via=v3 attempts=1
+[531.6 min] travel|B_cluster         valid=True via=v3 attempts=1
+[531.7 min] travel|C_random          valid=True via=v3 attempts=1
+[531.8 min] dream|A_band             valid=True via=v3 attempts=1
+[532.5 min] dream|B_cluster          valid=True via=v2 attempts=5
+[533.0 min] dream|C_random           valid=True via=v2 attempts=4
+[533.2 min] protection|A_band        valid=True via=v3 attempts=1
+[534.0 min] protection|B_cluster     valid=True via=v2 attempts=5
+[534.2 min] protection|C_random      valid=True via=v3 attempts=1
+judged winter
+judged war
+judged love
+judged ocean
+judged mourning
+judged gold
+judged music
+judged storm
+judged childhood
+judged ritual
+judged silence
+judged harvest
+judged dragon
+judged mirror
+judged bridge
+judged night
+judged dance
+judged fire
+judged bird
+judged journey
+judged feast
+judged portrait
+judged garden
+judged exile
+judged power
+judged luck
+judged wedding
+judged hunting
+judged mask
+judged sleep
+judged river
+judged crown
+judged memory
+judged flight
+judged prayer
+judged fabric
+judged play
+judged travel
+judged dream
+judged protection
+
+====================================================================================================
+SUMMARY (40 seeds x 3 strategies)
+====================================================================================================
+ strategy valid via v3  novelty  coherence junk(<60ch) repeat  depts  sim to seed invented names  cliches/pitch
+   A_band 40/40  28/40     2.84       3.80         10%     4%     16        0.502           5/40           0.45
+B_cluster 39/40  31/39     2.77       4.01          0%    18%      5        0.493          13/39           0.36
+ C_random 39/40  27/39     2.85       3.92          4%     0%     16        0.526          10/39           0.44
+
+Paired differences over seeds, mean [95% bootstrap CI over seeds]:
+  novelty   A_band-C_random: n=39 mean=-0.03 CI[-0.40, +0.35] wins/ties/losses=15/7/17  
+  novelty   A_band-B_cluster: n=39 mean=+0.09 CI[-0.23, +0.41] wins/ties/losses=16/11/12  
+  novelty   B_cluster-C_random: n=38 mean=-0.09 CI[-0.45, +0.25] wins/ties/losses=15/10/13  
+  coherence A_band-C_random: n=39 mean=-0.14 CI[-0.36, +0.08] wins/ties/losses=12/10/17  
+  coherence A_band-B_cluster: n=39 mean=-0.22 CI[-0.42, +0.00] wins/ties/losses=8/15/16  
+  coherence B_cluster-C_random: n=38 mean=+0.08 CI[-0.14, +0.32] wins/ties/losses=14/12/12  
+
+Judge reliability (agreement between its two passes on the same pitch):
+  novelty   n=118 correlation=0.15  exact agreement=31%
+  coherence n=118 correlation=0.39  exact agreement=64%
+
+Scores by prompt version:
+        novelty       coherence      
+           mean count      mean count
+version                              
+v2         3.09    32      4.05    32
+v3         2.72    86      3.86    86
+
+total time 537.3 min

@@ -1,0 +1,25 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Rebuildable artifacts (run scripts/01 and 02 to recreate)
+chroma/
+data/MetObjects.csv
+
+# Streamlit agent skills: environment-specific symlinks into .venv
+.agents/skills/developing-with-streamlit
+.claude/skills/developing-with-streamlit
+.claude/launch.json
+
+# Experiment data: keep only the final 40-seed evaluation, ignore earlier runs and scratch files
+data/*
+!data/eval40_mashups.json
+!data/eval40_scores.csv
+!data/eval40_run.log
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
